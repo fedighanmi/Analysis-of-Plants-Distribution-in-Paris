@@ -1,0 +1,1001 @@
+DOMANIALITE,ARRONDISSEMENT,GENRE,ESPECE,VARIETE OUCULTIVAR,CIRCONFERENCE (cm),HAUTEUR (m),STADE DE DEVELOPPEMENT,latitude,longitude
+Alignement,17,Tilia,tomentosa,''Brabant'',45,6,Jeune (arbre),48.88996277726261,2.316664637369121
+Alignement,17,Platanus,x hispanica,,35,5,Jeune (arbre),48.88312709688634,2.3076236647052
+Alignement,13,Sophora,japonica,,75,8,Jeune (arbre)Adulte,48.82501305246615,2.388252376474091
+Alignement,19,Tilia,tomentosa,,50,5,Jeune (arbre)Adulte,48.877317968304645,2.39324808116579
+Alignement,18,Sophora,japonica,''Regent'',42,7,Jeune (arbre),48.8891054899862,2.33456087619526
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',80,8,Jeune (arbre)Adulte,48.8349208754186,2.34239297777482
+Alignement,19,Trachycarpus,fortunei,,75,7,Adulte,48.89415514201253,2.37375776113916
+Alignement,12,Platanus,x hispanica,,35,5,Jeune (arbre)Adulte,48.84756001424295,2.374581715032763
+Alignement,16,Platanus,x hispanica,,118,18,Adulte,48.872575581644064,2.29396976678411
+Alignement,17,Acer,negundo,,57,6,Adulte,48.886056600569475,2.2862987624517
+Alignement,12,Tilia,tomentosa,,65,5,Jeune (arbre)Adulte,48.848410318515825,2.36791755299582
+Alignement,12,Aesculus,hippocastanum,,155,10,Adulte,48.84358860479065,2.412847805673477
+Alignement,15,Ulmus,n. sp.,,210,15,Adulte,48.836236407470565,2.31040881849674
+Alignement,14,Platanus,x hispanica,,105,10,Jeune (arbre)Adulte,48.83356577396207,2.335039876269928
+Alignement,13,Alnus,glutinosa,,30,5,Jeune (arbre),48.82027304366448,2.355576937773635
+Alignement,20,Robinia,pseudoacacia,''Bessoniana'',85,6,Adulte,48.85658427999556,2.41181107086808
+Alignement,12,Aesculus,hippocastanum,,35,5,Jeune (arbre),48.835225700085275,2.41221013086984
+Alignement,20,Lagerstroemia,indica,,35,3,Jeune (arbre),48.87650872395615,2.40670867748641
+Alignement,12,Tilia,platyphyllos,,95,16,Jeune (arbre)Adulte,48.8342281392708,2.442899543512784
+Alignement,19,Sophora,japonica,,85,5,Adulte,48.892014634180434,2.378144132766224
+Alignement,12,Platanus,x hispanica,,135,10,Adulte,48.84252030802843,2.3718973142398
+Alignement,13,Aesculus,x carnea,''Briotii'',100,8,Adulte,48.82872206334344,2.3679886329597
+Alignement,15,Juglans,nigra,,50,8,Jeune (arbre)Adulte,48.839421780668005,2.28388878973642
+Alignement,17,Platanus,x hispanica,,20,5,,48.87479994574526,2.292290098820839
+Alignement,19,Platanus,x hispanica,,35,5,,48.89028188196534,2.3974073936442
+Alignement,12,Aesculus,hippocastanum,,180,10,Adulte,48.83674327218824,2.412786290121665
+Alignement,18,Platanus,x hispanica,,124,14,Adulte,48.88532711539884,2.34936132189226
+Alignement,16,Platanus,x hispanica,,250,20,Mature,48.86097680897827,2.292083596891052
+Alignement,19,Tilia,tomentosa,,125,15,Adulte,48.89184557260093,2.36918134230299
+Alignement,16,Tilia,x europaea,,100,10,Adulte,48.854822233676764,2.269412572477525
+Alignement,13,Fraxinus,excelsior,''Diversifolia'',100,10,Adulte,48.81785898106357,2.3573653623386
+Alignement,13,Ginkgo,biloba,''Saratoga'',20,5,,48.827680010742824,2.356952579084846
+Alignement,17,Aesculus,hippocastanum,,170,16,Adulte,48.8874370410531,2.317487840501387
+Alignement,13,Quercus,robur,''Fastigiata'',60,15,Adulte,48.81960649840041,2.35821469148537
+Alignement,20,Fraxinus,angustifolia,''Raywood'',35,6,Jeune (arbre)Adulte,48.865931490331825,2.400512818644589
+Alignement,16,Platanus,x hispanica,,85,12,Adulte,48.864831148183036,2.294379418736812
+Alignement,12,Fraxinus,,,90,14,Adulte,48.83050897106267,2.438139880873202
+Alignement,13,Pyrus,calleryana,''Chanticleer'',70,12,Jeune (arbre)Adulte,48.82416088913992,2.357687158119311
+Alignement,20,Koelreuteria,paniculata,,60,8,Adulte,48.853380179650735,2.403845109096766
+Alignement,18,Sophora,japonica,,84,18,Jeune (arbre)Adulte,48.8884154507775,2.3477401513492
+Alignement,15,Sophora,japonica,,70,10,Adulte,48.84626420035181,2.27924194497083
+Alignement,16,Tilia,tomentosa,,47,8,Adulte,48.873539841924654,2.293582951808326
+Alignement,18,Sophora,japonica,,126,10,Adulte,48.897681040217904,2.35268987689483
+Alignement,12,Juglans,nigra,,105,14,Jeune (arbre)Adulte,48.82804488834374,2.438716264728036
+Alignement,12,Sophora,japonica,,105,10,Adulte,48.83545188421741,2.4019904393812
+Alignement,20,Platanus,x hispanica,,160,16,Adulte,48.85541364437076,2.41008068308323
+Alignement,16,Aesculus,hippocastanum,,195,22,Mature,48.86114715891021,2.268098101732376
+Alignement,20,Aesculus,hippocastanum,,115,15,Adulte,48.85791171497509,2.399756420673874
+Alignement,14,Platanus,x hispanica,,200,15,Adulte,48.82111611845896,2.32525078391229
+Alignement,13,Platanus,x hispanica,,45,5,Jeune (arbre),48.8192538769438,2.360818661409848
+Alignement,15,Platanus,x hispanica,,65,8,Adulte,48.84461867627275,2.290379644982675
+Alignement,19,Platanus,x hispanica,,95,15,Adulte,48.879591096522894,2.38776152899146
+Alignement,20,Prunus,serrulata,''Kanzan'',65,4,Adulte,48.87068702852169,2.399394241653225
+Alignement,12,Tilia,cordata,,55,9,Jeune (arbre)Adulte,48.827404985934415,2.45378043621517
+Alignement,12,Aesculus,hippocastanum,,72,6,Jeune (arbre),48.842112975518404,2.46338820143747
+Alignement,16,Aesculus,x carnea,,100,16,Adulte,48.855786552458895,2.26205468144624
+Alignement,15,Corylus,colurna,,20,5,,48.848161633543626,2.300593749930067
+Alignement,19,Platanus,x hispanica,,70,10,Jeune (arbre)Adulte,48.878446124385476,2.381651381017939
+Alignement,18,Cercis,siliquastrum,,20,5,,48.88516310077218,2.3509728125167
+Alignement,16,Malus,tschonoskii,,36,7,Jeune (arbre),48.836208509808465,2.260781800902121
+Alignement,13,Ulmus,,''Sapporo Autumn Gold'' RESISTA,25,2,Jeune (arbre),48.833595466567374,2.370783458727489
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',80,10,Jeune (arbre)Adulte,48.835959849603846,2.349714214390318
+Alignement,14,Quercus,rubra,,80,6,Jeune (arbre)Adulte,48.839386258565504,2.320787386252507
+Alignement,16,Platanus,x hispanica,,236,20,Mature,48.85631107929669,2.286247301731254
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',72,8,Jeune (arbre)Adulte,48.84791164186128,2.25238111470876
+Alignement,15,Toona,sinensis,,120,10,Adulte,48.84182776587717,2.289862744427721
+Alignement,14,Carpinus,betulus,''Fastigiata'',70,10,Jeune (arbre),48.82510503693408,2.313826826318077
+Alignement,16,Aesculus,hippocastanum,,195,20,Mature,48.85760952018083,2.2669948327535
+Alignement,15,Platanus,x hispanica,,80,12,Adulte,48.84489273646718,2.29055338277483
+Alignement,15,Platanus,x hispanica,,230,15,Adulte,48.83063781823391,2.30198333398795
+Alignement,17,Koelreuteria,paniculata,,20,5,,48.89892750149181,2.32334163685253
+Alignement,13,Pyrus,calleryana,''Chanticleer'',35,5,Jeune (arbre),48.82807250400326,2.34573944345107
+Alignement,16,Sophora,japonica,,81,8,Adulte,48.8623104034869,2.28657959732451
+Alignement,15,Acer,platanoides,,60,8,Adulte,48.83421525103792,2.31053419095848
+Alignement,15,Platanus,x hispanica,,105,12,Jeune (arbre)Adulte,48.829002280943975,2.300118003420237
+Alignement,12,Platanus,x hispanica,,190,19,Adulte,48.82928140872746,2.42449880248561
+Alignement,12,Tilia,platyphyllos,,110,18,Jeune (arbre)Adulte,48.835000367214924,2.43765480696499
+Alignement,14,Fraxinus,ornus,,75,7,Jeune (arbre),48.818611785083576,2.33067216297193
+Alignement,12,Gleditsia,triacanthos,,40,5,Jeune (arbre),48.841595266647346,2.38423760781497
+Alignement,16,Aesculus,hippocastanum,,185,14,Adulte,48.876884334455596,2.274780151889
+Alignement,20,Sophora,japonica,,45,6,Jeune (arbre),48.84959439483436,2.405015037751
+Alignement,15,Acer,platanoides,,50,8,Jeune (arbre)Adulte,48.846163244477346,2.301680246703915
+Alignement,12,Platanus,x hispanica,,110,17,Jeune (arbre)Adulte,48.83478999748822,2.436909228191859
+Alignement,16,Platanus,x hispanica,,152,17,Adulte,48.848153290631465,2.270063749149294
+Alignement,20,Tilia,cordata,,70,8,Jeune (arbre)Adulte,48.87011045798952,2.403092878365528
+Alignement,16,Aesculus,hippocastanum,,145,22,Adulte,48.858440028696705,2.27092045042251
+Alignement,18,Platanus,x hispanica,,130,14,Adulte,48.89641589276224,2.335351347804002
+Alignement,13,Platanus,occidentalis,,60,10,Jeune (arbre)Adulte,48.82397802989248,2.35321563841703
+Alignement,16,Pinus,nigra subsp. laricio,,26,2,Jeune (arbre),48.874385160753356,2.269806918528515
+Alignement,13,Magnolia,grandiflora,,65,8,Jeune (arbre)Adulte,48.81800604961857,2.362091991154505
+Alignement,13,Fraxinus,excelsior,''Westhof''s Glorie'',65,6,Jeune (arbre),48.835078233146874,2.352921152515309
+Alignement,13,Ostrya,carpinifolia,,25,5,Jeune (arbre),48.824701062948314,2.368513156064443
+Alignement,16,Platanus,x hispanica,,102,16,Adulte,48.87018050358593,2.28673923151871
+Alignement,20,Celtis,australis,,80,6,Adulte,48.85226416490987,2.4051365479034
+Alignement,12,Aesculus,hippocastanum,,35,6,Jeune (arbre),48.83579355045086,2.469736151422681
+Alignement,17,Platanus,x hispanica,,60,8,Jeune (arbre)Adulte,48.888252726894024,2.296381019957544
+Alignement,12,Tilia,cordata,,105,9,Adulte,48.82712963622109,2.45406607566746
+Alignement,17,Platanus,x hispanica,,33,4,Jeune (arbre),48.888446724825144,2.29662802348126
+Alignement,12,Tilia,tomentosa,,60,5,Jeune (arbre)Adulte,48.83301094311724,2.402904472864743
+Alignement,16,Platanus,x hispanica,,220,25,Adulte,48.84252828785823,2.270122405055668
+Alignement,16,Platanus,x hispanica,,60,14,Jeune (arbre)Adulte,48.84733461049085,2.25949215814323
+Alignement,15,Nyssa,sylvatica,,20,5,,48.83937431553129,2.289772621446544
+Alignement,16,Aesculus,hippocastanum,,140,17,Adulte,48.86359429956256,2.271065244622317
+Alignement,16,Sophora,japonica,,20,5,,48.84369230788321,2.25495681297244
+Alignement,15,Platanus,x hispanica,,65,10,Adulte,48.84318775130381,2.3207439618869
+Alignement,12,Carpinus,betulus,''Fastigiata'',90,5,Adulte,48.845148335048016,2.367407989918153
+Alignement,14,Toona,sinensis,,120,10,Jeune (arbre)Adulte,48.83943015626294,2.329945568647217
+Alignement,14,Celtis,australis,,100,6,Jeune (arbre),48.82095185350009,2.33649306667633
+Alignement,20,Tilia,cordata,,85,14,Adulte,48.86420122804967,2.392899248758036
+Alignement,12,Platanus,x hispanica,,100,15,Adulte,48.834354115507765,2.433665740087469
+Alignement,13,Tilia,tomentosa,,65,8,Jeune (arbre)Adulte,48.82650494403601,2.351181637572419
+Alignement,12,Platanus,x hispanica,,50,10,Jeune (arbre),48.839986042253145,2.461218096456468
+Alignement,17,Aesculus,hippocastanum,,160,13,Adulte,48.88560476420596,2.306901781258961
+Alignement,20,Platanus,x hispanica,,110,18,Adulte,48.86961404344158,2.40293617475237
+Alignement,18,Prunus,x schmittii,,55,9,Jeune (arbre)Adulte,48.89833057014166,2.363043396001157
+Alignement,12,Tilia,platyphyllos,,110,10,Jeune (arbre)Adulte,48.83146803399063,2.44837371479027
+Alignement,13,Platanus,occidentalis,,135,15,Adulte,48.83140850117129,2.341505790013951
+Alignement,14,Cladrastis,kentukea,,50,5,Jeune (arbre),48.82622810650328,2.30553108460625
+Alignement,13,Acer,campestre,,85,12,Adulte,48.821545387348145,2.343397557588795
+Alignement,20,Tilia,tomentosa,''Brabant'',20,5,,48.87643554424565,2.406178804576109
+Alignement,14,Prunus,padus,,60,5,Jeune (arbre),48.82498649782482,2.338299647945172
+Alignement,20,Alnus,cordata,,75,15,Adulte,48.87304473886829,2.391653802580852
+Alignement,12,Tilia,platyphyllos,,125,10,Adulte,48.835481141084564,2.40755879887926
+Alignement,14,Sophora,japonica,,95,7,Jeune (arbre)Adulte,48.835114391355916,2.33034394155452
+Alignement,16,Aesculus,x carnea,,206,18,Adulte,48.852703318584496,2.22741552911854
+Alignement,14,Toona,sinensis,,95,6,Jeune (arbre)Adulte,48.83994277647948,2.328412203026625
+Alignement,16,Acer,platanoides,,77,9,Adulte,48.84584548181068,2.262478419544287
+Alignement,19,Liriodendron,tulipifera,,90,12,Adulte,48.885174362452375,2.374577754232463
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',75,10,Jeune (arbre)Adulte,48.82516210436527,2.362148817875463
+Alignement,13,Ulmus,n. sp.,,30,5,Jeune (arbre),48.81934897054208,2.365162843674313
+Alignement,14,Sophora,japonica,''Regent'',35,5,Jeune (arbre),48.82777037249317,2.32938815715022
+Alignement,16,Platanus,x hispanica,,50,8,Jeune (arbre)Adulte,48.86431409164678,2.269777919437896
+Alignement,15,Aesculus,x carnea,''Briotii'',60,5,Jeune (arbre)Adulte,48.836523352512344,2.30654778675948
+Alignement,19,Sophora,japonica,,30,5,Jeune (arbre),48.888668027111606,2.374222424706843
+Alignement,13,Platanus,occidentalis,,100,18,Adulte,48.83244217073186,2.3611335666265
+Alignement,16,Platanus,x hispanica,,85,15,Adulte,48.8535519230559,2.282437847373113
+Alignement,12,Platanus,x hispanica,,150,20,Adulte,48.83965398868295,2.408598164226997
+Alignement,12,Aesculus,hippocastanum,''Baumannii'',25,5,Jeune (arbre),48.84008615267473,2.38111205128688
+Alignement,17,Aesculus,hippocastanum,,63,8,Jeune (arbre)Adulte,48.88799962898623,2.31655350630791
+Alignement,16,Platanus,x hispanica,,160,20,Adulte,48.837603396484376,2.264882456322795
+Alignement,20,Fraxinus,angustifolia,''Raywood'',50,6,Jeune (arbre)Adulte,48.866239944528125,2.400071062144099
+Alignement,17,Aesculus,hippocastanum,,105,10,Adulte,48.885523435468095,2.3070023998433
+Alignement,12,Tilia,platyphyllos,,80,8,Adulte,48.83423530000532,2.445409990417985
+Alignement,16,Platanus,x hispanica,,72,10,Jeune (arbre)Adulte,48.83551365620732,2.25460902822483
+Alignement,16,Corylus,colurna,,74,10,Adulte,48.87426967486288,2.269046393578847
+Alignement,16,Platanus,x hispanica,,105,15,Adulte,48.84815652419911,2.271027775654614
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',95,10,Adulte,48.84135435503013,2.31399000802549
+Alignement,19,Juglans,nigra,,65,5,Jeune (arbre)Adulte,48.88671171753686,2.39613216626045
+Alignement,19,Sophora,japonica,,120,18,Adulte,48.875641430942565,2.373171228996884
+Alignement,16,Platanus,x hispanica,,200,22,Mature,48.84521357058092,2.264733467550875
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',75,10,Jeune (arbre)Adulte,48.82343171318663,2.365611347258922
+Alignement,17,Platanus,x hispanica,,210,20,Mature,48.89610560864903,2.32604720606742
+Alignement,12,Fraxinus,excelsior,''Diversifolia'',95,10,Adulte,48.84247729504561,2.405213929978063
+Alignement,17,Sophora,japonica,,115,12,Adulte,48.88246229654854,2.31196920600188
+Alignement,16,Platanus,x hispanica,,54,8,Jeune (arbre)Adulte,48.86254099518037,2.28651583631503
+Alignement,20,Prunus,padus,,20,5,Jeune (arbre),48.85752735053471,2.410600839889738
+Alignement,12,Fraxinus,ornus,,75,5,Jeune (arbre)Adulte,48.83787941754969,2.38294598985266
+Alignement,12,Platanus,x hispanica,,165,15,Adulte,48.84268286197758,2.385099482603377
+Alignement,16,Aesculus,x carnea,,54,8,Jeune (arbre),48.85861379261586,2.285319042385909
+Alignement,15,Platanus,x hispanica,,120,18,Adulte,48.828659649199274,2.273849241095675
+Alignement,12,Platanus,x hispanica,,50,10,Jeune (arbre)Adulte,48.84750309579733,2.388789060305145
+Alignement,12,Platanus,x hispanica,,155,15,Adulte,48.833874510497985,2.394628925676187
+Alignement,13,Tilia,tomentosa,,50,4,Jeune (arbre)Adulte,48.82249348930419,2.373172821519972
+Alignement,14,Tilia,tomentosa,,110,10,Jeune (arbre)Adulte,48.82531269849932,2.327309823435075
+Alignement,12,Sophora,japonica,,60,5,Jeune (arbre),48.83806091967157,2.403826843689282
+Alignement,15,Fraxinus,ornus,,20,5,,48.837326611910356,2.310910580263777
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',75,10,Adulte,48.8409208367325,2.314338907324221
+Alignement,12,Tilia,cordata,,80,5,Adulte,48.8338087050804,2.385927819998179
+Alignement,12,Platanus,x hispanica,,30,5,Jeune (arbre),48.83888315762799,2.390089627607695
+Alignement,20,Tilia,x europaea,''Pallida'',100,12,Adulte,48.85617713620596,2.402740004062557
+Alignement,12,Tilia,tomentosa,,130,15,Adulte,48.837786737172806,2.39206684170608
+Alignement,12,Acer,n. sp.,,60,8,Jeune (arbre),48.83907266128429,2.431914921650699
+Alignement,12,Quercus,n. sp.,,60,9,Jeune (arbre),48.82796330856663,2.46378592741655
+Alignement,19,Populus,x canadensis,''Robusta'',120,15,Adulte,48.88638301918016,2.374243720790867
+Alignement,16,Pinus,nigra subsp. salzmannii,,24,3,Jeune (arbre),48.861966971251384,2.247245108529669
+Alignement,18,Aesculus,x carnea,''Briotii'',165,11,Adulte,48.8993806679026,2.33914423485468
+Alignement,16,Platanus,x hispanica,,177,15,Adulte,48.8457676347343,2.255967345667948
+Alignement,19,Prunus,serrulata,,35,5,Jeune (arbre),48.89865958896507,2.379175309537
+Alignement,19,Tilia,x europaea,''Euchlora'',90,7,Adulte,48.88872545956063,2.37842184214619
+Alignement,18,Tilia,tomentosa,,70,8,Jeune (arbre)Adulte,48.893421213206445,2.32896042145696
+Alignement,19,Alnus,n. sp.,,100,15,Adulte,48.89023145647884,2.38725468688526
+Alignement,17,Platanus,x hispanica,,105,14,Adulte,48.88677402039206,2.29689102983392
+Alignement,12,Tilia,platyphyllos,,20,5,,48.825693080178254,2.45590582794631
+Alignement,15,Tilia,cordata,,125,12,Adulte,48.83748362046691,2.295714031096439
+Alignement,20,Sophora,japonica,,60,8,Jeune (arbre)Adulte,48.874721785631614,2.389351637474267
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',100,12,Adulte,48.84142124245416,2.318629296878753
+Alignement,12,Fraxinus,angustifolia,''Raywood'',20,5,,48.833634211417944,2.403201622303667
+Alignement,13,Tilia,tomentosa,,100,10,Jeune (arbre)Adulte,48.83021957188875,2.356977963195556
+Alignement,16,Gymnocladus,dioica,,20,5,,48.85993327920706,2.27397859878785
+Alignement,13,Cercis,siliquastrum,,45,5,Jeune (arbre),48.82921074588111,2.356623439563528
+Alignement,16,Platanus,x hispanica,,230,25,Mature,48.845079952747035,2.265873064292386
+Alignement,12,Tilia,platyphyllos,,120,13,Jeune (arbre)Adulte,48.83461725313863,2.4386936002488
+Alignement,15,Aesculus,x carnea,,170,15,Adulte,48.83718056991708,2.270766459773208
+Alignement,19,Platanus,x hispanica,,210,20,Mature,48.88536290338497,2.39680474596148
+Alignement,18,Platanus,x hispanica,,25,5,Jeune (arbre),48.897752390762754,2.3403205756905
+Alignement,13,Sophora,japonica,,75,8,Jeune (arbre)Adulte,48.827189503272656,2.37491694389802
+Alignement,12,Acer,platanoides,,105,12,Adulte,48.82217402456926,2.454599464516883
+Alignement,16,Aesculus,hippocastanum,,116,13,Adulte,48.872317197010105,2.253854184324488
+Alignement,20,Platanus,x hispanica,,180,15,Adulte,48.8680549557018,2.41090430969266
+Alignement,12,Pyrus,calleryana,''Chanticleer'',70,5,Adulte,48.84508857042131,2.41221823083803
+Alignement,13,Quercus,robur,''Fastigiata'',100,15,Adulte,48.81996238426348,2.35764709448313
+Alignement,16,Acer,pseudoplatanus,,190,16,Adulte,48.85079009790103,2.26206647097775
+Alignement,12,Platanus,x hispanica,,150,20,Adulte,48.842740430829316,2.410019964432519
+Alignement,19,Acer,platanoides,,35,5,Jeune (arbre),48.89072690523038,2.375996846785463
+Alignement,20,Parrotia,persica,''Vanessa'',20,5,,48.85082015431337,2.41131443994694
+Alignement,13,Platanus,x hispanica,,45,6,Jeune (arbre)Adulte,48.82661391716517,2.35346424828254
+Alignement,13,Platanus,x hispanica,,0,0,,48.84371247411551,2.365959364498888
+Alignement,19,Tilia,tomentosa,,80,6,Jeune (arbre)Adulte,48.87671133807778,2.393339450529146
+Alignement,14,Platanus,x hispanica,,65,7,Jeune (arbre),48.83183120765066,2.3401418433061
+Alignement,13,Aesculus,hippocastanum,,95,8,Jeune (arbre)Adulte,48.818598380364676,2.352881140869724
+Alignement,20,Acer,negundo,,65,10,Jeune (arbre)Adulte,48.86477069623062,2.400448518571596
+Alignement,13,Platanus,orientalis,,160,20,Adulte,48.82110896462,2.3674367280203
+Alignement,12,Platanus,x hispanica,,140,15,Adulte,48.837190310005305,2.382092880541783
+Alignement,20,Tilia,tomentosa,,60,8,Jeune (arbre)Adulte,48.863398361216476,2.38927436585107
+Alignement,16,Platanus,x hispanica,,161,22,Adulte,48.85900319627018,2.243819872197091
+Alignement,12,Acer,platanoides,,85,8,Jeune (arbre)Adulte,48.83746664901602,2.440086303619509
+Alignement,12,Aesculus,hippocastanum,,200,10,Adulte,48.8471119563534,2.40739261939069
+Alignement,15,Tilia,tomentosa,,50,8,Jeune (arbre)Adulte,48.843398447834176,2.282989911227264
+Alignement,18,Prunus,x schmittii,,55,8,Jeune (arbre)Adulte,48.89832769928997,2.3629432573429
+Alignement,16,Aesculus,x carnea,''Briotii'',43,7,Jeune (arbre)Adulte,48.856804763996905,2.266008775200493
+Alignement,14,Acer,platanoides,,60,6,Jeune (arbre),48.841162777598456,2.32969689577061
+Alignement,20,Platanus,x hispanica,,170,20,Adulte,48.87064093682312,2.393513651723437
+Alignement,16,Platanus,x hispanica,,185,25,Adulte,48.86768091306502,2.2337846172913
+Alignement,14,Fraxinus,ornus,,80,9,Jeune (arbre)Adulte,48.82438086650379,2.310030391631382
+Alignement,16,Celtis,australis,,57,9,Jeune (arbre)Adulte,48.86666526641749,2.2501174570012
+Alignement,12,Tilia,platyphyllos,,130,13,Jeune (arbre)Adulte,48.8260875242312,2.462600738648173
+Alignement,19,Platanus,orientalis,,145,20,Adulte,48.8802516364504,2.37414176824167
+Alignement,12,Platanus,x hispanica,,215,20,Mature,48.83905571857994,2.408405814634
+Alignement,19,Non spécifié,n. sp.,,120,10,Adulte,48.889035026728045,2.396935446914537
+Alignement,17,Paulownia,tomentosa,,98,10,Adulte,48.87553124778331,2.293592291195645
+Alignement,14,Tilia,tomentosa,,90,8,Jeune (arbre)Adulte,48.82521811816324,2.3271081023291
+Alignement,15,Corylus,colurna,,55,7,Jeune (arbre)Adulte,48.83628301655376,2.307717463038
+Alignement,14,Platanus,x hispanica,,125,12,Adulte,48.82095634879735,2.32578273889958
+Alignement,19,Sophora,japonica,,40,6,Jeune (arbre),48.8753490882317,2.373505226444444
+Alignement,17,Platanus,x hispanica,,110,10,Adulte,48.8866872406427,2.296651612896334
+Alignement,20,Malus,n. sp.,,60,5,Jeune (arbre)Adulte,48.8709175381516,2.3822640300657
+Alignement,14,Gleditsia,triacanthos,''Skyline'',50,6,Jeune (arbre),48.821900495252926,2.32637678242459
+Alignement,16,Acer,pseudoplatanus,,120,15,Adulte,48.854288875869166,2.263190595438748
+Alignement,19,Sophora,japonica,,110,15,Adulte,48.88404964850455,2.39947066221391
+Alignement,16,Aesculus,hippocastanum,,48,6,Jeune (arbre)Adulte,48.85758350499434,2.268594521013643
+Alignement,12,Platanus,x hispanica,,160,15,Adulte,48.839118604000504,2.39654483685509
+Alignement,20,Aesculus,hippocastanum,''Baumannii'',85,10,Adulte,48.857829375813445,2.40284743742903
+Alignement,14,Sophora,japonica,,60,6,Jeune (arbre),48.84043663057734,2.326937337621032
+Alignement,12,Sophora,japonica,,100,10,Adulte,48.83551628931641,2.402077123983272
+Alignement,19,Platanus,x hispanica,,170,18,Adulte,48.89894694094134,2.3775905146595
+Alignement,20,Aesculus,hippocastanum,,155,12,Adulte,48.84712377147624,2.41314304398422
+Alignement,13,Celtis,australis,,95,15,Adulte,48.81699708558324,2.347542563502601
+Alignement,13,Platanus,occidentalis,,110,15,Adulte,48.82994014661196,2.3516605785364
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',55,10,Jeune (arbre)Adulte,48.856810755460664,2.265811144856085
+Alignement,18,Platanus,x hispanica,,170,17,Adulte,48.898419464168086,2.36255427403272
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',125,8,Adulte,48.864144138141214,2.29181445290255
+Alignement,12,Tilia,platyphyllos,,80,9,Jeune (arbre)Adulte,48.83415767826455,2.442539428287254
+Alignement,18,Ulmus,,''Sapporo Autumn Gold'' RESISTA,30,5,Jeune (arbre),48.89407840365952,2.331910501919635
+Alignement,16,Acer,pseudoplatanus,''Leopoldii'',20,5,,48.8578409701318,2.27761203317335
+Alignement,17,Platanus,x hispanica,,97,10,Adulte,48.885927818730984,2.294057080588044
+Alignement,16,Platanus,x hispanica,,180,16,Adulte,48.8463696462081,2.26807172585402
+Alignement,16,Platanus,x hispanica,,145,22,Adulte,48.86626162263146,2.2966997031504
+Alignement,19,Platanus,x hispanica,,60,10,Jeune (arbre)Adulte,48.89886973294122,2.373763765810174
+Alignement,19,Paulownia,tomentosa,,70,5,Jeune (arbre)Adulte,48.88964316013723,2.39503037586268
+Alignement,14,Tilia,tomentosa,,130,10,Jeune (arbre)Adulte,48.83696266088616,2.32463669207279
+Alignement,12,Pyrus,calleryana,''Chanticleer'',55,5,Adulte,48.84523175727497,2.37575598236723
+Alignement,12,Aesculus,hippocastanum,,190,10,Adulte,48.83774388730505,2.41315904549499
+Alignement,18,Tilia,tomentosa,,85,12,Jeune (arbre)Adulte,48.887726418272855,2.348763614391552
+Alignement,12,Aesculus,hippocastanum,,45,7,Jeune (arbre),48.83172740481501,2.46562066638058
+Alignement,12,Aesculus,hippocastanum,,170,20,Adulte,48.84452912162733,2.450210467876518
+Alignement,19,Pyrus,calleryana,''Chanticleer'',20,5,,48.887014985118306,2.39391577947396
+Alignement,15,Lagerstroemia,indica,,20,5,,48.85091290865148,2.29618301480672
+Alignement,16,Platanus,x hispanica,,205,20,Adulte,48.8649086201047,2.29935022470325
+Alignement,12,Platanus,x hispanica,,100,10,Adulte,48.841766042623775,2.393135145361644
+Alignement,20,Platanus,x hispanica,,200,15,Mature,48.86121296596529,2.409414487046558
+Alignement,13,Zelkova,carpinifolia,,45,4,Jeune (arbre)Adulte,48.83571784432816,2.360080840548003
+Alignement,20,Platanus,x hispanica,,155,12,Adulte,48.862434026995835,2.4110637884709
+Alignement,19,Platanus,orientalis,,195,20,Adulte,48.88035840121304,2.39072786547346
+Alignement,19,Platanus,orientalis,,65,15,Jeune (arbre),48.88069444905897,2.373877015991776
+Alignement,14,Platanus,x hispanica,,110,15,Jeune (arbre)Adulte,48.82970073395809,2.32598594468678
+Alignement,16,Aesculus,hippocastanum,,82,10,Jeune (arbre)Adulte,48.8629397546262,2.26954380835902
+Alignement,12,Pinus,n. sp.,,50,5,Jeune (arbre)Adulte,48.831649554099286,2.39849082860877
+Alignement,13,Celtis,australis,,85,8,Adulte,48.83435256429539,2.35780975454169
+Alignement,13,Juglans,nigra,,75,9,Adulte,48.822149239669294,2.371523662578851
+Alignement,14,Tilia,tomentosa,,70,6,Jeune (arbre),48.826382291673056,2.32960628814795
+Alignement,17,Platanus,x hispanica,,80,9,Jeune (arbre)Adulte,48.892317347745184,2.327106269695214
+Alignement,16,Ailanthus,altissima,,122,12,Adulte,48.84638610262847,2.257782788101805
+Alignement,14,Pterocarya,fraxinifolia,,60,5,Jeune (arbre),48.841271493174425,2.324140841429623
+Alignement,16,Acer,platanoides,,54,8,Adulte,48.845010324582674,2.26179841162914
+Alignement,13,Ginkgo,biloba,,50,6,Jeune (arbre)Adulte,48.83479968036351,2.37261307927696
+Alignement,13,Magnolia,grandiflora,,50,6,Jeune (arbre)Adulte,48.8343151184676,2.34906248147512
+Alignement,13,Magnolia,grandiflora,,40,6,Jeune (arbre)Adulte,48.821535571019666,2.35627421184767
+Alignement,13,Platanus,occidentalis,,70,10,Jeune (arbre)Adulte,48.82079494886618,2.366456933308628
+Alignement,13,Pyrus,calleryana,''Chanticleer'',40,8,Jeune (arbre)Adulte,48.82500240619287,2.343427860036291
+Alignement,16,Platanus,x hispanica,,165,16,Adulte,48.8480670924551,2.26464245853858
+Alignement,16,Aesculus,hippocastanum,,228,20,Adulte,48.86398361096029,2.276730661771183
+Alignement,17,Platanus,x hispanica,,168,15,Adulte,48.88081766455871,2.31161551583517
+Alignement,16,Sophora,japonica,,78,12,Jeune (arbre)Adulte,48.838714673577215,2.26394508111183
+Alignement,16,Acer,platanoides,''Farlake''s Green'',60,8,Jeune (arbre)Adulte,48.851120758238324,2.25874481045495
+Alignement,15,Aesculus,x carnea,''Briotii'',35,7,Jeune (arbre)Adulte,48.842008084404696,2.31366188411797
+Alignement,12,Acer,n. sp.,,40,5,Jeune (arbre),48.84733964660308,2.396634474474
+Alignement,15,Platanus,occidentalis,,130,10,Adulte,48.84677966464938,2.3117770571732
+Alignement,19,Pyrus,calleryana,''Chanticleer'',65,10,Jeune (arbre)Adulte,48.880246519567365,2.3716831769316
+Alignement,17,Acer,platanoides,''Globosum'',50,5,Jeune (arbre)Adulte,48.88970885723959,2.294831984166369
+Alignement,14,Platanus,x hispanica,,140,15,Adulte,48.826786320765294,2.335145334759049
+Alignement,17,Platanus,x hispanica,,105,13,Adulte,48.87954287564294,2.29109197181519
+Alignement,12,Aesculus,x carnea,''Briotii'',85,10,Adulte,48.84775775680525,2.38105156392988
+Alignement,15,Platanus,x hispanica,,85,12,Adulte,48.849138647184446,2.28802947256024
+Alignement,20,Celtis,australis,,60,5,Adulte,48.855737008638805,2.41215019839511
+Alignement,13,Pyrus,calleryana,''Chanticleer'',45,8,Jeune (arbre),48.82269042364002,2.34671622740063
+Alignement,15,Pyrus,calleryana,''Chanticleer'',50,7,Adulte,48.844064036210526,2.30994907311853
+Alignement,12,Quercus,n. sp.,,125,18,Adulte,48.84432580695782,2.45143536666704
+Alignement,13,Ginkgo,biloba,,50,8,Jeune (arbre)Adulte,48.82983435797003,2.37743267917125
+Alignement,13,Pyrus,calleryana,''Chanticleer'',70,10,Adulte,48.83758557143409,2.357551374137237
+Alignement,14,Platanus,x hispanica,,190,15,Mature,48.841261751863705,2.33144368490779
+Alignement,13,Ginkgo,biloba,,50,8,Jeune (arbre)Adulte,48.83026427439517,2.37691274113117
+Alignement,16,Aesculus,hippocastanum,,69,12,Jeune (arbre)Adulte,48.8569349127121,2.2659549178297
+Alignement,13,Prunus,avium,''Plena'',55,6,Jeune (arbre)Adulte,48.82302453704681,2.35526590189611
+Alignement,14,Acer,platanoides,,70,8,Jeune (arbre),48.84101751859375,2.330067327469884
+Alignement,13,Platanus,occidentalis,,150,15,Adulte,48.835419714875364,2.369947745944247
+Alignement,13,Platanus,x hispanica,,40,8,Jeune (arbre)Adulte,48.82219516248872,2.3785171401245
+Alignement,18,Platanus,orientalis,,180,21,Adulte,48.883110967257856,2.3450276991466
+Alignement,13,Platanus,occidentalis,,90,12,Adulte,48.83110788368492,2.34469026060106
+Alignement,18,Platanus,x hispanica,,30,5,Jeune (arbre),48.897911403627326,2.33646322779108
+Alignement,19,Tilia,n. sp.,,105,10,Adulte,48.88590403414249,2.370904863868548
+Alignement,19,Sophora,japonica,,180,18,Adulte,48.89893253642912,2.383649405334484
+Alignement,14,Platanus,x hispanica,,220,18,Mature,48.829540829515814,2.32820543228375
+Alignement,13,Sophora,japonica,,40,5,Jeune (arbre),48.8259387627807,2.351669692506571
+Alignement,13,Cornus,mas,,20,5,,48.83780154771603,2.372966522174563
+Alignement,16,Tilia,tomentosa,,145,18,Adulte,48.87094917510941,2.279271430008093
+Alignement,16,Acer,pseudoplatanus,,107,11,Adulte,48.84430785752828,2.270711520823837
+Alignement,15,Aesculus,x carnea,''Briotii'',55,6,Jeune (arbre)Adulte,48.83669963101417,2.2751064829795
+Alignement,19,Tilia,tomentosa,,95,10,Adulte,48.88563193221293,2.37028176809387
+Alignement,17,Platanus,x hispanica,,100,11,Adulte,48.89132255604097,2.3024703586989
+Alignement,16,Acer,platanoides,,25,5,,48.84247559868033,2.25289273389651
+Alignement,13,Fraxinus,excelsior,''Westhof''s Glorie'',50,6,Jeune (arbre),48.83551352924445,2.352869959225895
+Alignement,12,Aesculus,hippocastanum,,105,12,Jeune (arbre),48.837546187001955,2.425180780454591
+Alignement,19,Populus,nigra,,4,2,Jeune (arbre),48.90058541477813,2.380503899326717
+Alignement,19,Sophora,japonica,,100,10,Adulte,48.89935326750148,2.37619701582934
+Alignement,13,Malus,tschonoskii,,65,10,Jeune (arbre)Adulte,48.828229895335575,2.351557207276244
+Alignement,12,Platanus,x hispanica,,150,17,Jeune (arbre)Adulte,48.833951403074785,2.4337235594636
+Alignement,14,Platanus,x hispanica,,170,15,Mature,48.835243185319136,2.33334090321595
+Alignement,13,Prunus,serrula,,57,5,Adulte,48.8355091699676,2.37309799272806
+Alignement,16,Sophora,japonica,,87,10,Adulte,48.83876771058024,2.25672961139472
+Alignement,16,Acer,pseudoplatanus,''Purpureum'',46,6,Jeune (arbre)Adulte,48.84928892797069,2.27548206054819
+Alignement,13,Paulownia,tomentosa,,75,8,Adulte,48.83201670828837,2.35485931577925
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',90,10,Adulte,48.842584406180116,2.31320722161091
+Alignement,17,Celtis,australis,,110,10,Adulte,48.89935746642802,2.32003894982486
+Alignement,12,Tilia,tomentosa,,75,8,Jeune (arbre),48.825134214629934,2.46057742092051
+Alignement,20,Crataegus,x mordenensis,''Toba'',20,5,,48.87055924903514,2.40422381915177
+Alignement,13,Tilia,cordata,,52,7,Jeune (arbre)Adulte,48.828867079523185,2.38378574511848
+Alignement,12,Fraxinus,americana,,70,10,Adulte,48.833829861494074,2.40291554109826
+Alignement,16,Tilia,tomentosa,,90,9,Adulte,48.86060232442672,2.26689693599209
+Alignement,18,Aesculus,x carnea,''Briotii'',183,11,Mature,48.899426827620765,2.341342831513124
+Alignement,12,Malus,trilobata,,20,5,Jeune (arbre),48.83549469971676,2.3855667648198
+Alignement,13,Sophora,japonica,,55,8,Jeune (arbre),48.82646687010872,2.36196287287892
+Alignement,16,Sophora,japonica,,75,12,Adulte,48.85632844895139,2.265468579346057
+Alignement,14,Aesculus,x carnea,''Briotii'',55,6,Jeune (arbre)Adulte,48.83460280339788,2.335159736021088
+Alignement,14,Acer,platanoides,,75,7,Jeune (arbre),48.841695029331504,2.32949757740223
+Alignement,14,Fraxinus,ornus,,80,6,Jeune (arbre),48.82479735730021,2.310386832266794
+Alignement,14,Prunus,cerasifera,''Pissardii'',30,3,Jeune (arbre),48.83248710269163,2.31250258542049
+Alignement,15,Platanus,x hispanica,,110,15,Adulte,48.84662064748023,2.312493335722166
+Alignement,12,Platanus,x hispanica,,80,12,Jeune (arbre)Adulte,48.82813767299009,2.428404816776388
+Alignement,15,Platanus,x hispanica,,165,15,Adulte,48.8289423427758,2.29214203639611
+Alignement,12,Aesculus,n. sp.,,40,5,Jeune (arbre)Adulte,48.835646611247455,2.412620295878254
+Alignement,20,Platanus,x hispanica,,170,20,Mature,48.87821319142702,2.41045415430629
+Alignement,17,Corylus,colurna,,72,8,Jeune (arbre)Adulte,48.886730244665614,2.31218609013092
+Alignement,16,Sophora,japonica,,85,10,Adulte,48.86844838249872,2.285551632135899
+Alignement,16,Acer,pseudoplatanus,,61,13,Adulte,48.84961186394663,2.276085484180008
+Alignement,12,Aesculus,hippocastanum,''Baumannii'',45,5,Jeune (arbre)Adulte,48.84025767876855,2.381037270692228
+Alignement,19,Corylus,colurna,,60,10,Jeune (arbre)Adulte,48.8792432179807,2.39847868540885
+Alignement,14,Aesculus,hippocastanum,''Baumannii'',125,10,Adulte,48.83457946445452,2.33468254085582
+Alignement,13,Celtis,australis,,100,10,Adulte,48.83942049039674,2.3615792357583
+Alignement,16,Acer,pseudoplatanus,,54,8,Jeune (arbre)Adulte,48.85058636489484,2.27739244425563
+Alignement,13,Populus,alba,''Raket'',25,5,Jeune (arbre),48.81768107828748,2.35314129195162
+Alignement,13,Toona,sinensis,,85,8,Jeune (arbre)Adulte,48.83717066669141,2.353322091762996
+Alignement,16,Platanus,x hispanica,,75,12,Jeune (arbre)Adulte,48.87610056808126,2.28158913093269
+Alignement,16,Aesculus,hippocastanum,,118,28,Adulte,48.86008152112841,2.26822906627225
+Alignement,19,Platanus,x hispanica,,220,25,Mature,48.89887811101588,2.38710179093627
+Alignement,15,Aesculus,x carnea,''Briotii'',50,6,Jeune (arbre)Adulte,48.83766023750433,2.27197930350594
+Alignement,19,Platanus,x hispanica,,220,25,Adulte,48.88314188836321,2.394818110005169
+Alignement,19,Platanus,x hispanica,,125,20,Adulte,48.90148823943901,2.38586056988652
+Alignement,12,Tilia,tomentosa,,80,9,Jeune (arbre),48.82490568209133,2.4597220100224
+Alignement,19,Sophora,japonica,,60,5,Jeune (arbre),48.89444001164853,2.39426439222178
+Alignement,16,Platanus,x hispanica,,125,15,Adulte,48.86580220585949,2.272501217680063
+Alignement,12,Platanus,x hispanica,,130,16,Jeune (arbre)Adulte,48.83279154669958,2.434506266055883
+Alignement,19,Platanus,x hispanica,,160,20,Adulte,48.89883234386701,2.371882448873247
+Alignement,12,Platanus,x hispanica,,130,15,Adulte,48.84051250557919,2.374190671418608
+Alignement,19,Platanus,x hispanica,,175,23,Adulte,48.879348563334275,2.37036480633657
+Alignement,16,Aesculus,hippocastanum,,55,8,Jeune (arbre)Adulte,48.85687723091065,2.266058060872461
+Alignement,14,Sophora,japonica,,50,6,Jeune (arbre),48.8297132158197,2.3213227799408
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',70,10,Jeune (arbre)Adulte,48.86433728637865,2.274120017688578
+Alignement,13,Fraxinus,excelsior,''Westhof''s Glorie'',65,8,Jeune (arbre)Adulte,48.83636295810014,2.352380297601575
+Alignement,18,Robinia,pseudoacacia,''Unifolia'',150,16,Mature,48.899629000520704,2.336234025430284
+Alignement,16,Tilia,x europaea,,83,9,Adulte,48.853712470286915,2.28261823325332
+Alignement,12,Platanus,x hispanica,,110,10,Adulte,48.84850059496004,2.371077988668149
+Alignement,14,Platanus,x hispanica,,145,15,Adulte,48.822160128796206,2.32970905043382
+Alignement,12,Tilia,platyphyllos,,160,15,Adulte,48.83674554996562,2.409285294547631
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',90,10,Adulte,48.83198272732924,2.372174786795137
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',110,12,Adulte,48.834054699095226,2.37001238976256
+Alignement,19,Platanus,x hispanica,,115,15,Adulte,48.88356403401728,2.372871592783545
+Alignement,12,Sophora,japonica,,25,4,Jeune (arbre),48.82717299240061,2.453311536138959
+Alignement,17,Platanus,x hispanica,,163,15,Mature,48.88797860302034,2.304398847097756
+Alignement,17,Platanus,x hispanica,,205,16,Mature,48.898366727748545,2.323355432078287
+Alignement,13,Toona,sinensis,,175,12,Mature,48.8370189303163,2.35303857473534
+Alignement,15,Platanus,x hispanica,,140,15,Adulte,48.839374293315906,2.304753378044358
+Alignement,16,Ostrya,carpinifolia,,20,5,,48.864052835220306,2.248622576528054
+Alignement,13,Platanus,occidentalis,,145,15,Adulte,48.830238201311026,2.35091491289894
+Alignement,16,Platanus,x hispanica,,60,7,Jeune (arbre)Adulte,48.87706548686448,2.284017440338541
+Alignement,12,Aesculus,x carnea,,55,5,Jeune (arbre)Adulte,48.84810126132988,2.394591754002801
+Alignement,16,Aesculus,hippocastanum,,215,20,Mature,48.86004765729576,2.268235920911036
+Alignement,18,Acer,campestre,''Elsrijk'',20,3,Jeune (arbre),48.897408095969716,2.356383925087466
+Alignement,13,Aesculus,x carnea,''Briotii'',50,5,Jeune (arbre),48.83487155296138,2.344742765711754
+Alignement,16,Acer,campestre,,44,7,Jeune (arbre)Adulte,48.87434659006285,2.271507697060535
+Alignement,12,Acer,platanoides,,80,7,Jeune (arbre)Adulte,48.83474349316056,2.44386434064439
+Alignement,14,Tilia,cordata,,60,6,Jeune (arbre),48.83566838780886,2.328385776837426
+Alignement,19,Platanus,x hispanica,,65,8,Jeune (arbre),48.89638215741495,2.393449139808912
+Alignement,14,Tilia,x flavescens,''Glenleven'',55,6,Jeune (arbre),48.83593619850996,2.33165421104511
+Alignement,13,Celtis,australis,,90,8,Jeune (arbre)Adulte,48.83487978675276,2.358204216116
+Alignement,16,Platanus,x hispanica,,67,12,Jeune (arbre)Adulte,48.868189819636804,2.282013700540028
+Alignement,13,Platanus,occidentalis,,90,12,Adulte,48.83094872455075,2.353315850546646
+Alignement,19,Sophora,japonica,,45,6,Jeune (arbre),48.87279922810217,2.37929297598457
+Alignement,12,Acer,pseudoplatanus,,45,5,Jeune (arbre)Adulte,48.84620160673281,2.397563298772451
+Alignement,20,Platanus,x hispanica,,60,10,Jeune (arbre)Adulte,48.87547154811797,2.40332409542049
+Alignement,15,Tilia,x europaea,''Euchlora'',60,7,Adulte,48.8409157347533,2.30396683005375
+Alignement,15,Sophora,japonica,,55,7,Jeune (arbre)Adulte,48.84213695286878,2.27776104136834
+Alignement,17,Platanus,x hispanica,,100,12,Adulte,48.880257879147756,2.287722673355709
+Alignement,15,Platanus,x hispanica,,20,5,,48.846512924541074,2.31265660154354
+Alignement,16,Sorbus,aria,,30,6,Jeune (arbre),48.836899214804376,2.259649294845333
+Alignement,15,Platanus,x hispanica,,65,10,Jeune (arbre)Adulte,48.84116685877791,2.28068114703078
+Alignement,15,Ostrya,carpinifolia,,20,5,,48.837196766275476,2.274706874422214
+Alignement,14,Tilia,tomentosa,,95,9,Jeune (arbre)Adulte,48.82546897127555,2.32764348820096
+Alignement,14,Platanus,x hispanica,,150,14,Adulte,48.832972576356084,2.33116244434856
+Alignement,17,Platanus,x hispanica,,73,10,Jeune (arbre)Adulte,48.89119677708759,2.30074353478775
+Alignement,16,Tilia,tomentosa,,85,12,Adulte,48.87370511797561,2.28440359426807
+Alignement,13,Magnolia,grandiflora,,45,6,Jeune (arbre),48.82877654957975,2.380094722692202
+Alignement,18,Prunus,x schmittii,,49,8,Jeune (arbre)Adulte,48.88725528278527,2.328711875710843
+Alignement,13,Platanus,occidentalis,,255,20,Mature,48.83622153112134,2.371651430297829
+Alignement,16,Aesculus,hippocastanum,,135,12,Adulte,48.876823646901634,2.27406942810732
+Alignement,19,Sophora,japonica,,125,20,Adulte,48.88282058002971,2.401011616115655
+Alignement,18,Acer,platanoides,''Columnare'',79,10,Jeune (arbre)Adulte,48.89043472588104,2.356148958540345
+Alignement,12,Platanus,x hispanica,,60,10,Jeune (arbre)Adulte,48.8318059020895,2.3843389516409
+Alignement,14,Platanus,x hispanica,,25,5,Jeune (arbre),48.83616534746305,2.327677233338748
+Alignement,17,Liquidambar,styraciflua,,30,6,Jeune (arbre),48.891102076923374,2.318151722324374
+Alignement,18,Pyrus,calleryana,''Chanticleer'',35,5,Jeune (arbre),48.88857166310523,2.35427417650774
+Alignement,16,Aesculus,hippocastanum,,96,10,Adulte,48.86385533643892,2.27879919643206
+Alignement,13,Sophora,japonica,,0,0,,48.83132491936822,2.374359598908137
+Alignement,16,Aesculus,hippocastanum,,52,11,Jeune (arbre)Adulte,48.856870882540875,2.266354496799759
+Alignement,14,Pyrus,calleryana,''Chanticleer'',80,7,Jeune (arbre),48.8266899137565,2.33192845287639
+Alignement,15,Toona,sinensis,,120,12,Adulte,48.83710253157193,2.27921090310197
+Alignement,15,Acer,platanoides,,60,8,Adulte,48.84696652787341,2.30162602661245
+Alignement,14,Quercus,rubra,,65,8,Jeune (arbre),48.83935225623672,2.321163371020979
+Alignement,16,Aesculus,hippocastanum,,136,15,Adulte,48.86372040446358,2.2815441419567
+Alignement,16,Aesculus,hippocastanum,,66,10,Jeune (arbre)Adulte,48.863442933142586,2.283109355144893
+Alignement,16,Zelkova,serrata,''Flekova'' GREEN VASE,47,8,Jeune (arbre)Adulte,48.86182366046385,2.24714817843215
+Alignement,19,Celtis,australis,,65,10,Jeune (arbre)Adulte,48.87953872085164,2.4083033391897
+Alignement,12,Platanus,x hispanica,,140,15,Adulte,48.83645352978408,2.40455349766048
+Alignement,15,Tilia,cordata,,85,10,Adulte,48.83697426502398,2.2974964818239
+Alignement,18,Robinia,pseudoacacia,''Unifolia'',120,17,Jeune (arbre)Adulte,48.88561890439552,2.342331350384106
+Alignement,13,Carpinus,betulus,,60,10,Jeune (arbre)Adulte,48.81602651354496,2.345048387042593
+Alignement,13,Malus,tschonoskii,,80,10,Jeune (arbre)Adulte,48.82782230887574,2.350450302864189
+Alignement,20,Platanus,x hispanica,,195,18,Mature,48.84827697365293,2.40012068304919
+Alignement,13,Malus,tschonoskii,,25,5,,48.82709577109676,2.348323446677875
+Alignement,13,Fraxinus,americana,,30,5,Jeune (arbre),48.821272565750405,2.346641416489412
+Alignement,17,Platanus,x hispanica,,60,8,Jeune (arbre)Adulte,48.88200740977666,2.286160569478372
+Alignement,13,Platanus,x hispanica,,170,20,Adulte,48.82100163503117,2.36839334950531
+Alignement,16,Platanus,x hispanica,,230,22,Mature,48.844112071545986,2.27159686836805
+Alignement,20,Tilia,x europaea,''Pallida'',65,5,Jeune (arbre)Adulte,48.84931214334941,2.414133049029923
+Alignement,14,Tilia,x europaea,''Pallida'',90,10,Jeune (arbre),48.83365396760184,2.325708354319
+Alignement,15,Platanus,x hispanica,,95,10,Adulte,48.848180605385544,2.30555359897308
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',90,10,Adulte,48.8374479491228,2.272468578818744
+Alignement,16,Celtis,australis,,61,8,Jeune (arbre)Adulte,48.876892559338195,2.27066124087254
+Alignement,13,Tilia,tomentosa,,105,15,Adulte,48.82922917020719,2.35373361310745
+Alignement,13,Aesculus,x carnea,''Briotii'',90,6,Jeune (arbre)Adulte,48.829056271700935,2.368308991332749
+Alignement,14,Tilia,platyphyllos,,30,3,Jeune (arbre),48.827371237704696,2.331447416813263
+Alignement,15,Sophora,japonica,,75,8,Adulte,48.84686241662565,2.29332312620817
+Alignement,16,Platanus,x hispanica,,25,6,Adulte,48.84813078101506,2.264814393974609
+Alignement,13,Gleditsia,triacanthos,''Skyline'',20,5,Jeune (arbre),48.83210599791392,2.379416557855642
+Alignement,16,Platanus,x hispanica,,130,15,Adulte,48.874479609511106,2.2920301139242
+Alignement,12,Aesculus,hippocastanum,,35,6,Jeune (arbre),48.83849559779049,2.467790383934305
+Alignement,15,Platanus,x hispanica,,125,15,Adulte,48.833178810558756,2.28251721564393
+Alignement,19,Corylus,colurna,,50,8,Jeune (arbre)Adulte,48.88822186167424,2.371994104401692
+Alignement,18,Magnolia,grandiflora,,78,7,Jeune (arbre)Adulte,48.89892070384763,2.36830755216342
+Alignement,15,Sophora,japonica,,60,10,Adulte,48.84310700495015,2.27740820462759
+Alignement,13,Platanus,x hispanica,,165,15,Adulte,48.82047228256345,2.37165291596151
+Alignement,12,Platanus,x hispanica,,20,5,,48.846635379467784,2.381159572293154
+Alignement,14,Acer,platanoides,''Royal red'',25,5,Jeune (arbre),48.83536827974679,2.332267274632201
+Alignement,19,Tilia,cordata,,55,10,Jeune (arbre)Adulte,48.87672151675365,2.3953014621004
+Alignement,12,Castanea,n. sp.,,30,4,Jeune (arbre),48.84097601418708,2.452730127205395
+Alignement,16,Aesculus,hippocastanum,,220,21,Mature,48.86316652795441,2.26917719485149
+Alignement,12,Aesculus,x carnea,''Briotii'',65,5,Jeune (arbre)Adulte,48.84674000972426,2.411636333305981
+Alignement,12,Acer,platanoides,,125,10,Adulte,48.83773885791377,2.439832733936603
+Alignement,19,Aesculus,x carnea,''Briotii'',130,15,Adulte,48.878134119887086,2.397101977670841
+Alignement,20,Aesculus,x carnea,''Briotii'',20,5,Jeune (arbre),48.8707968447452,2.40490003642837
+Alignement,13,Toona,sinensis,''Flamingo'',20,5,Jeune (arbre),48.83949887427033,2.360832275452992
+Alignement,16,Aesculus,hippocastanum,,180,16,Adulte,48.84911398147665,2.258101384148474
+Alignement,16,Platanus,x hispanica,,85,15,Adulte,48.8452958231005,2.25780581037852
+Alignement,19,Platanus,x hispanica,,210,25,Adulte,48.88456829149938,2.370261534352097
+Alignement,15,Tilia,cordata,,45,7,Jeune (arbre)Adulte,48.83626942154262,2.281800281050968
+Alignement,16,Platanus,x hispanica,,213,19,Mature,48.84611999050733,2.267651387364727
+Alignement,12,Platanus,x hispanica,,40,5,Jeune (arbre),48.85025545711199,2.370546904176037
+Alignement,13,Acer,monspessulanum,,35,5,Jeune (arbre),48.8189402889861,2.3486043742942
+Alignement,13,Platanus,occidentalis,,95,15,Adulte,48.82999085810415,2.34682346522218
+Alignement,12,Platanus,x hispanica,,85,10,Jeune (arbre)Adulte,48.84250745794301,2.371175216918685
+Alignement,15,Platanus,x hispanica,,180,15,Adulte,48.84931529069962,2.29836645720731
+Alignement,13,Alnus,glutinosa,,105,15,Adulte,48.82124250066439,2.36913676947749
+Alignement,20,Acer,negundo,,55,8,Jeune (arbre)Adulte,48.87031636403479,2.386331801339698
+Alignement,16,Platanus,x hispanica,,110,18,Adulte,48.84795153332169,2.263228947030025
+Alignement,18,Ostrya,carpinifolia,,30,5,Jeune (arbre),48.8923712119362,2.3454925987333
+Alignement,14,Tilia,x flavescens,''Glenleven'',70,6,Jeune (arbre),48.83682549929592,2.33164049213552
+Alignement,12,Platanus,x hispanica,,80,10,Adulte,48.84634515739657,2.378605566163228
+Alignement,19,Platanus,x hispanica,,165,20,Adulte,48.88707798314568,2.397985663756195
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',75,10,Adulte,48.84427528157662,2.31168863823222
+Alignement,17,Platanus,x hispanica,,82,12,Adulte,48.887902362009555,2.307233644233366
+Alignement,16,Photinia,x fraseri,''Red Robin'',20,5,,48.83621585312845,2.25962938215438
+Alignement,16,Tilia,cordata,,80,11,Adulte,48.85539837309904,2.2848266639809
+Alignement,12,Platanus,x hispanica,,205,25,Adulte,48.8348096335305,2.384627020979957
+Alignement,12,Platanus,x hispanica,,35,6,Jeune (arbre),48.82196501875947,2.44602777865698
+Alignement,14,Platanus,x hispanica,,115,15,Jeune (arbre)Adulte,48.83347268470959,2.333994890377847
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',155,12,Adulte,48.84777105463634,2.2798382349465
+Alignement,14,Platanus,x hispanica,,170,15,Adulte,48.82215184933114,2.32216935583037
+Alignement,12,Platanus,x hispanica,,85,10,Adulte,48.83206253398084,2.388535463901473
+Alignement,16,Tilia,x europaea,''Euchlora'',35,5,Jeune (arbre),48.87819938334473,2.270510488794773
+Alignement,18,Prunus,serrulata,''Kanzan'',20,5,,48.890154489350664,2.34549461914959
+Alignement,16,Platanus,x hispanica,,230,20,Mature,48.84634374041654,2.2703944975568
+Alignement,19,Liriodendron,tulipifera,,90,15,Adulte,48.88397578402819,2.386383972477758
+Alignement,19,Platanus,x hispanica,,195,25,Mature,48.88181838686614,2.393741108316266
+Alignement,14,Quercus,rubra,,85,8,Jeune (arbre)Adulte,48.839098515864535,2.32045029837512
+Alignement,14,Platanus,x hispanica,,250,15,Adulte,48.83065984641106,2.333832454799679
+Alignement,19,Carpinus,betulus,''Fastigiata'',110,15,Adulte,48.879645024641455,2.387983995699048
+Alignement,16,Tilia,tomentosa,,82,12,Adulte,48.84850057280192,2.258861037831614
+Alignement,15,Platanus,x hispanica,,155,18,Adulte,48.82801483040159,2.27277941808394
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',93,10,Adulte,48.84789643561896,2.25367644710772
+Alignement,20,Acer,monspessulanum,,25,24,Jeune (arbre),48.85658753514626,2.410608295524329
+Alignement,16,Platanus,x hispanica,,195,17,Adulte,48.861106990841286,2.292247889334229
+Alignement,18,Acer,platanoides,''Globosum'',65,6,Jeune (arbre)Adulte,48.89545801549367,2.363110974673573
+Alignement,13,Fraxinus,americana,,30,5,Jeune (arbre),48.82127256762864,2.34708139970748
+Alignement,19,Pinus,sylvestris,,30,6,,48.90145711030626,2.37207151742677
+Alignement,15,Celtis,australis,,45,6,Jeune (arbre)Adulte,48.84875424445687,2.30264803448966
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',70,8,Adulte,48.84451917565694,2.311173739140176
+Alignement,14,Prunus,serrulata,''Amanogawa'',30,5,Jeune (arbre),48.82643811325597,2.3246824192821
+Alignement,12,Juglans,nigra,,100,14,Jeune (arbre)Adulte,48.82803366758895,2.438935477436
+Alignement,13,Platanus,x hispanica,,332,29,Mature,48.8432982003097,2.36616106577697
+Alignement,20,Sophora,japonica,,55,10,Jeune (arbre)Adulte,48.851878507507514,2.40613812525346
+Alignement,19,Platanus,x hispanica,,20,5,,48.879458776435165,2.37429116685202
+Alignement,19,Celtis,australis,,90,10,Jeune (arbre)Adulte,48.89124005991483,2.385902496583163
+Alignement,19,Platanus,n. sp.,,110,15,Adulte,48.888767478964446,2.392725404598158
+Alignement,13,Sophora,japonica,,38,5,Jeune (arbre),48.82756958633243,2.37099386122999
+Alignement,14,Tilia,tomentosa,,70,5,Jeune (arbre),48.82679438583864,2.330492383448707
+Alignement,17,Aesculus,hippocastanum,,72,8,Jeune (arbre)Adulte,48.883417219716584,2.30925965197885
+Alignement,13,Populus,n. sp.,,110,15,Adulte,48.81981045890703,2.353187087081208
+Alignement,15,Ligustrum,lucidum,,70,7,Adulte,48.83739041253188,2.28530678121551
+Alignement,15,Sophora,japonica,,165,15,Adulte,48.83961991257297,2.278071430792
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',122,16,Adulte,48.87790107163374,2.27813923841886
+Alignement,16,Sophora,japonica,,69,8,Jeune (arbre)Adulte,48.84814420772501,2.269900254288077
+Alignement,19,Platanus,x hispanica,,110,16,Adulte,48.886416855332854,2.38375172665137
+Alignement,14,Platanus,x hispanica,,80,8,Jeune (arbre)Adulte,48.82395607824008,2.318179215368818
+Alignement,13,Ginkgo,biloba,''Saratoga'',20,5,,48.821918842736444,2.358483572413978
+Alignement,20,Aesculus,hippocastanum,,160,12,Mature,48.86357083781874,2.407414306950427
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',20,5,,48.86214232215745,2.28705628019792
+Alignement,19,Platanus,x hispanica,,25,6,Jeune (arbre),48.8788499234494,2.370370562053979
+Alignement,18,Platanus,x hispanica,,155,15,Adulte,48.90142653039517,2.35854369508444
+Alignement,12,Platanus,x hispanica,,125,15,Adulte,48.84552016835237,2.39655931025749
+Alignement,16,Aesculus,hippocastanum,,148,22,Adulte,48.85824648481854,2.2706898699961
+Alignement,13,Tilia,tomentosa,,80,12,Jeune (arbre)Adulte,48.827382816263096,2.351873495363034
+Alignement,18,Platanus,x hispanica,,190,20,Adulte,48.89144992890112,2.3270066809814
+Alignement,19,Platanus,orientalis,,190,15,Adulte,48.87650710627787,2.38116650385839
+Alignement,17,Platanus,x hispanica,,175,18,Adulte,48.887688308213214,2.325354635661932
+Alignement,12,Platanus,x hispanica,,100,10,Adulte,48.83222866013237,2.39718930546252
+Alignement,20,Fraxinus,excelsior,,110,10,Adulte,48.86493401070273,2.4011407512439
+Alignement,20,Tilia,tomentosa,,75,10,Adulte,48.86478818659077,2.39520915986801
+Alignement,13,Aesculus,n. sp.,,70,10,,48.81590359969385,2.35808239142152
+Alignement,17,Platanus,x hispanica,,110,15,Adulte,48.88641952999908,2.3055930446782
+Alignement,16,Aesculus,hippocastanum,,124,8,Jeune (arbre)Adulte,48.86422227451384,2.27272559876092
+Alignement,16,Quercus,cerris,,20,5,,48.86221169864611,2.247175571432063
+Alignement,14,Acer,negundo,,130,10,Adulte,48.82338957591057,2.319791589127307
+Alignement,16,Platanus,x hispanica,,155,14,Adulte,48.87413345205856,2.2934486637012
+Alignement,13,Toona,sinensis,,20,5,Jeune (arbre),48.83755444599299,2.354726290396608
+Alignement,19,Tilia,x europaea,''Euchlora'',80,12,Adulte,48.8773102332101,2.39525094129923
+Alignement,19,Tilia,x europaea,''Euchlora'',40,7,Jeune (arbre),48.88690555917915,2.37556600586014
+Alignement,15,Carpinus,betulus,''Fastigiata'',75,10,Adulte,48.8331986625184,2.307372777625364
+Alignement,14,Magnolia,grandiflora,,85,6,Jeune (arbre)Adulte,48.82142586281052,2.32819417696948
+Alignement,12,Fraxinus,americana,,55,5,Jeune (arbre)Adulte,48.83475637653018,2.40514805623504
+Alignement,18,Aesculus,x carnea,''Briotii'',72,7,Jeune (arbre)Adulte,48.899351538307364,2.3407955306542
+Alignement,14,Platanus,x hispanica,,130,12,Jeune (arbre)Adulte,48.83333448645155,2.33174218409915
+Alignement,12,Tilia,tomentosa,,85,10,Jeune (arbre)Adulte,48.835443230216285,2.38505247608
+Alignement,14,Celtis,australis,,20,5,,48.82980681368963,2.307242835861584
+Alignement,17,Platanus,x hispanica,,45,7,Jeune (arbre),48.89063747927907,2.32023711065223
+Alignement,14,Platanus,x hispanica,,110,15,Jeune (arbre)Adulte,48.83318825651682,2.337132095387363
+Alignement,16,Corylus,colurna,,77,8,Adulte,48.87322765805769,2.266591133067
+Alignement,12,Tilia,tomentosa,,20,5,Jeune (arbre),48.84051427952413,2.388524300949239
+Alignement,16,Acer,platanoides,,61,10,Adulte,48.841580905011774,2.258841194787006
+Alignement,16,Platanus,x hispanica,,75,11,Jeune (arbre)Adulte,48.87646161836537,2.282768044250057
+Alignement,12,Platanus,x hispanica,,120,14,Adulte,48.84421167653559,2.44223482874127
+Alignement,20,Tilia,tomentosa,,90,8,Adulte,48.86720340194191,2.400569245053428
+Alignement,14,Acer,platanoides,,80,6,Jeune (arbre),48.83598216240514,2.33195475187808
+Alignement,18,Platanus,x hispanica,,45,10,Jeune (arbre),48.89650772760348,2.345401926703235
+Alignement,14,Fraxinus,ornus,,55,6,Jeune (arbre),48.81879911202866,2.329826563766675
+Alignement,16,Tilia,x europaea,''Euchlora'',70,10,Jeune (arbre)Adulte,48.85376974613867,2.26092153304519
+Alignement,13,Sophora,japonica,,85,10,Adulte,48.826250522155405,2.343868049647791
+Alignement,12,Platanus,x hispanica,,180,20,Adulte,48.84259257683492,2.43915668043446
+Alignement,15,Tilia,tomentosa,,100,12,Adulte,48.84174060023412,2.28664022906629
+Alignement,16,Aesculus,hippocastanum,,60,8,Jeune (arbre),48.87677264536909,2.272633790498279
+Alignement,19,Pyrus,calleryana,''Chanticleer'',20,5,,48.887290537019,2.393905017137441
+Alignement,20,Platanus,x hispanica,,80,8,Jeune (arbre)Adulte,48.85714541234516,2.393519619725221
+Alignement,18,Platanus,x hispanica,,20,5,,48.893569150467094,2.327720732408969
+Alignement,20,Aesculus,x carnea,,30,6,Jeune (arbre)Adulte,48.847269476609256,2.4101421735523
+Alignement,12,Platanus,x hispanica,,155,15,Adulte,48.849069268140475,2.37145650596572
+Alignement,12,Platanus,n. sp.,,55,10,Jeune (arbre)Adulte,48.8409826743249,2.3892088664633
+Alignement,14,Platanus,x hispanica,,85,10,Jeune (arbre)Adulte,48.83807952878017,2.336116408263422
+Alignement,19,Catalpa,bignonioides,,115,9,Adulte,48.900260769254764,2.387982974524163
+Alignement,16,Platanus,x hispanica,,46,6,Jeune (arbre),48.86641363747763,2.28981680637031
+Alignement,20,Platanus,x hispanica,,75,10,Jeune (arbre)Adulte,48.85060854099002,2.411278673079495
+Alignement,12,Aesculus,hippocastanum,,70,8,Jeune (arbre),48.83616072675701,2.422737236084704
+Alignement,16,Aesculus,hippocastanum,,200,16,Adulte,48.87611398662748,2.256416700481109
+Alignement,17,Gymnocladus,dioica,,35,6,Jeune (arbre),48.878762108028695,2.29850456159615
+Alignement,16,Aesculus,x carnea,,115,16,Adulte,48.85835496712671,2.26761985286515
+Alignement,12,Tilia,platyphyllos,,140,16,Adulte,48.83346524891278,2.438206471227304
+Alignement,14,Fraxinus,angustifolia,''Monophylla'',120,8,Adulte,48.820517978885135,2.343510397445123
+Alignement,15,Zelkova,serrata,''Flekova'' GREEN VASE,20,5,,48.84769943436113,2.299923573965221
+Alignement,16,Tilia,x europaea,''Euchlora'',60,9,Jeune (arbre)Adulte,48.85280054253146,2.26005343711011
+Alignement,18,Aesculus,hippocastanum,,108,10,Adulte,48.90111288035121,2.33990136304911
+Alignement,15,Sophora,japonica,,105,10,Adulte,48.833215366984696,2.289013935341719
+Alignement,14,Platanus,x hispanica,,245,20,Mature,48.83881666075546,2.3297832421399
+Alignement,16,Sophora,japonica,,20,5,,48.8487434079777,2.270368694957847
+Alignement,17,Pyrus,calleryana,''Chanticleer'',55,6,Adulte,48.89294485998995,2.3268534103173
+Alignement,19,Aesculus,hippocastanum,,110,15,Adulte,48.87768683839789,2.37825532468667
+Alignement,13,Prunus,serrulata,''Amanogawa'',45,8,Jeune (arbre)Adulte,48.82239898845333,2.36191169824002
+Alignement,13,Fraxinus,excelsior,''Diversifolia'',35,8,Jeune (arbre),48.82044196370896,2.34402343450515
+Alignement,15,Tilia,x europaea,''Pallida'',60,10,Adulte,48.841701401729466,2.281323434439585
+Alignement,19,Quercus,ilex,,20,5,,48.88403064662951,2.3866690367876
+Alignement,15,Cercis,siliquastrum,,40,5,Adulte,48.834632053740435,2.269341462501268
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',85,10,Jeune (arbre)Adulte,48.824444491298685,2.363308058611101
+Alignement,12,Aesculus,x carnea,,90,10,Adulte,48.849219189539454,2.38408717971326
+Alignement,16,Tilia,cordata,''Greenspire'',0,0,,48.84867316805041,2.25792482133131
+Alignement,17,Acer,pseudoplatanus,''Atropurpureum'',48,6,Jeune (arbre)Adulte,48.889377324602435,2.319004217727878
+Alignement,16,Tilia,tomentosa,,110,10,Adulte,48.84923947114693,2.2664768858933
+Alignement,18,Carpinus,betulus,''Fastigiata'',93,14,Jeune (arbre)Adulte,48.89745877947939,2.33659528974831
+Alignement,16,Platanus,x hispanica,,20,5,,48.86758449406702,2.27257217544647
+Alignement,13,Toona,sinensis,,155,12,Adulte,48.837129068607005,2.35319357286858
+Alignement,16,Platanus,x hispanica,,100,12,Jeune (arbre)Adulte,48.866380525838004,2.299461566961232
+Alignement,20,Carpinus,betulus,''Fastigiata'',55,8,Jeune (arbre)Adulte,48.85206484069607,2.41264015146552
+Alignement,13,Aesculus,x carnea,''Briotii'',30,4,Jeune (arbre),48.822359318638796,2.36732849073095
+Alignement,17,Acer,platanoides,''Globosum'',47,5,Jeune (arbre)Adulte,48.8903046187233,2.295967657548323
+Alignement,16,Aesculus,hippocastanum,,195,18,Adulte,48.854376435696174,2.24222032672949
+Alignement,12,Trachycarpus,fortunei,,60,5,Adulte,48.83513468920298,2.407391950730338
+Alignement,18,Gleditsia,triacanthos f. Inermis,,35,5,Jeune (arbre),48.899776889334724,2.329796566007111
+Alignement,13,Platanus,orientalis,,95,12,Adulte,48.83159960836532,2.34271726195595
+Alignement,16,Platanus,x hispanica,,62,8,Jeune (arbre)Adulte,48.87394193799102,2.27795998690042
+Alignement,16,Aesculus,hippocastanum,,132,11,Adulte,48.86411970071587,2.27247953905543
+Alignement,13,Lagerstroemia,indica,,20,3,Jeune (arbre),48.822433522503964,2.346646631673835
+Alignement,16,Platanus,x hispanica,,115,12,Adulte,48.875374192838386,2.27944438029872
+Alignement,15,Tilia,tomentosa,,65,8,Adulte,48.83565717848549,2.301681774173634
+Alignement,15,Sophora,japonica,,100,12,Adulte,48.841335925277896,2.306921743166517
+Alignement,19,Quercus,n. sp.,,60,10,Jeune (arbre)Adulte,48.87839302751159,2.409132938407642
+Alignement,14,Platanus,x hispanica,,170,15,Mature,48.836506918254685,2.334321410299825
+Alignement,18,Celtis,australis,,70,7,Adulte,48.88273153029613,2.33636880048493
+Alignement,17,Tilia,x europaea,''Euchlora'',100,10,Adulte,48.885918553787164,2.2848926527608
+Alignement,14,Sophora,japonica,,45,5,Jeune (arbre),48.839614015598734,2.328895041179718
+Alignement,15,Platanus,x hispanica,,195,18,Adulte,48.84483496818294,2.290501489792114
+Alignement,12,Quercus,robur,,30,5,Jeune (arbre),48.84400444565202,2.446113587140746
+Alignement,19,Platanus,x hispanica,,95,16,Adulte,48.88783476456815,2.389795860677803
+Alignement,16,Platanus,x hispanica,,170,16,Adulte,48.86796138093649,2.295473207011528
+Alignement,13,Carpinus,betulus,''Fastigiata'',30,5,Jeune (arbre),48.82489342632887,2.359814644031212
+Alignement,16,Platanus,x hispanica,,70,13,Jeune (arbre)Adulte,48.84032251577004,2.26305770654977
+Alignement,19,Liquidambar,styraciflua,,90,15,Adulte,48.88491538032883,2.390187678242381
+Alignement,12,Aesculus,n. sp.,,45,5,Jeune (arbre)Adulte,48.84751903186196,2.39544439275283
+Alignement,15,Sophora,japonica,,45,8,Adulte,48.847016545223624,2.29262079097676
+Alignement,19,Platanus,x hispanica,,90,15,Adulte,48.883749898500916,2.38960147621754
+Alignement,18,Tilia,n. sp.,,100,16,Adulte,48.893979347052706,2.331982109990627
+Alignement,14,Platanus,x hispanica,,60,10,Jeune (arbre)Adulte,48.8375290002765,2.33557405922287
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',115,14,Adulte,48.87686936383893,2.274598145780178
+Alignement,16,Aesculus,hippocastanum,,60,9,Jeune (arbre)Adulte,48.861543635251685,2.267672487144006
+Alignement,17,Platanus,x hispanica,,24,5,Jeune (arbre),48.880201544672865,2.294875155090587
+Alignement,12,Aesculus,hippocastanum,,70,10,Adulte,48.837603740936736,2.413344441909397
+Alignement,16,Platanus,x hispanica,,126,12,Adulte,48.83535050078877,2.25556371310852
+Alignement,18,Carpinus,betulus,''Frans Fontaine'',30,7,Jeune (arbre),48.894804439634626,2.34348256196074
+Alignement,18,Prunus,serrulata,''Sunset Boulevard'',50,6,Jeune (arbre),48.89141761071676,2.343654927535875
+Alignement,13,Prunus,serrula,,66,6,Adulte,48.835503992229675,2.373033287609641
+Alignement,15,Platanus,x hispanica,,130,12,Adulte,48.83722306408608,2.27724321444307
+Alignement,13,Carpinus,betulus,,70,12,Adulte,48.83659096929246,2.373969782262192
+Alignement,18,Platanus,x hispanica,,27,5,Jeune (arbre),48.90120804676386,2.34232253992773
+Alignement,20,Tilia,cordata,,90,10,Adulte,48.87524636602622,2.40570536556195
+Alignement,13,Platanus,occidentalis,,100,15,Adulte,48.832278421990445,2.36100552885661
+Alignement,12,Platanus,x hispanica,,130,20,Adulte,48.84696888677078,2.38410129318339
+Alignement,13,Platanus,occidentalis,,90,9,Adulte,48.830555819889845,2.35207194974248
+Alignement,13,Tilia,tomentosa,,110,10,Adulte,48.82099169072039,2.37231206056341
+Alignement,14,Tilia,cordata,,130,10,Jeune (arbre)Adulte,48.83753950154065,2.323294165986535
+Alignement,15,Platanus,x hispanica,,175,15,Adulte,48.83609089927687,2.277675645779
+Alignement,12,Platanus,x hispanica,,65,10,Jeune (arbre)Adulte,48.84761854641553,2.389812804342972
+Alignement,17,Acer,campestre,,47,6,Jeune (arbre),48.89969870365984,2.321573934557893
+Alignement,12,Cercis,siliquastrum,,20,5,,48.84507597203007,2.3820445966682
+Alignement,14,Acer,pseudoplatanus,,90,8,Jeune (arbre)Adulte,48.839991147289226,2.33013218591972
+Alignement,16,Sophora,japonica,,33,5,Jeune (arbre),48.83865933343625,2.255059343399803
+Alignement,12,Aesculus,hippocastanum,,90,12,Jeune (arbre)Adulte,48.844120534726606,2.44315156201181
+Alignement,15,Pterocarya,fraxinifolia,,90,7,Adulte,48.85178785533799,2.282270296115799
+Alignement,19,Populus,x canadensis,''Robusta'',115,15,Jeune (arbre)Adulte,48.88609463797494,2.373529307224891
+Alignement,18,Sophora,japonica,,126,16,Mature,48.8896790474676,2.338671633566599
+Alignement,18,Populus,alba,''Pyramidalis'',106,15,Jeune (arbre)Adulte,48.90080773685987,2.344545880272969
+Alignement,17,Ulmus,n. sp.,,120,13,Adulte,48.87760447358476,2.29761250680447
+Alignement,19,Aesculus,hippocastanum,''Baumannii'',125,20,Adulte,48.88616103790504,2.39118157374887
+Alignement,15,Tilia,tomentosa,,30,6,Jeune (arbre),48.83450705993566,2.30549250089736
+Alignement,13,Pyrus,calleryana,''Chanticleer'',45,5,Jeune (arbre),48.81596148470218,2.35912702162672
+Alignement,13,Tilia,tomentosa,,115,12,Adulte,48.830521898689774,2.35478253901474
+Alignement,19,Platanus,x hispanica,,200,25,Mature,48.87795582212862,2.40580849222932
+Alignement,16,Sophora,japonica,,120,12,Adulte,48.84397441015571,2.25535204016156
+Alignement,16,Tilia,cordata,,155,18,Adulte,48.85567526762359,2.285171334002215
+Alignement,20,Pyrus,calleryana,''Chanticleer'',75,8,Jeune (arbre)Adulte,48.84879702973326,2.413057590904831
+Alignement,19,Tilia,x europaea,''Pallida'',105,10,Mature,48.88863544349953,2.378644815078207
+Alignement,12,Aesculus,hippocastanum,,40,6,Jeune (arbre),48.83000116840752,2.464811997044266
+Alignement,20,Malus,trilobata,,40,6,Jeune (arbre),48.86500648299264,2.388534599822239
+Alignement,14,Sophora,japonica,,70,6,Jeune (arbre),48.82733515755766,2.33537855398569
+Alignement,14,Tilia,cordata,,95,6,Jeune (arbre)Adulte,48.834969490124756,2.3297058575575
+Alignement,12,Platanus,x hispanica,,20,5,,48.84633056754451,2.378485662616428
+Alignement,13,Platanus,occidentalis,,110,12,Adulte,48.81924250479644,2.358989996650161
+Alignement,19,Sophora,japonica,,50,6,Jeune (arbre),48.89956644572735,2.376279100845571
+Alignement,13,Tilia,platyphyllos,,50,8,Jeune (arbre)Adulte,48.82926363710587,2.383284626711957
+Alignement,12,Platanus,x hispanica,,135,16,Jeune (arbre)Adulte,48.83015421556554,2.433970230560625
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',70,10,Jeune (arbre)Adulte,48.83498976423142,2.34395652889955
+Alignement,16,Platanus,x hispanica,,20,5,,48.86365785883391,2.297463403218727
+Alignement,14,Platanus,x hispanica,,185,15,Adulte,48.837353088125305,2.3285573847816
+Alignement,16,Ailanthus,altissima,,178,13,Adulte,48.8650322623176,2.29974201051693
+Alignement,17,Pyrus,calleryana,''Chanticleer'',25,4,Jeune (arbre),48.893655245472324,2.314726959459026
+Alignement,16,Aesculus,hippocastanum,,98,11,Adulte,48.86357188383023,2.282866430398285
+Alignement,13,Fraxinus,excelsior,,30,8,Jeune (arbre),48.8249423929395,2.341676199571762
+Alignement,16,Tilia,cordata,''Greenspire'',20,5,,48.85267470610178,2.26013965214155
+Alignement,13,Malus,tschonoskii,,70,10,Adulte,48.82685040161248,2.349656384684408
+Alignement,12,Platanus,x hispanica,,35,5,Jeune (arbre),48.84751903349958,2.38769703262457
+Alignement,18,Acer,campestre,,20,5,,48.89207489030052,2.34650459863021
+Alignement,17,Sophora,japonica,,55,8,Jeune (arbre)Adulte,48.88411250017595,2.295393721467653
+Alignement,12,Gleditsia,triacanthos,,90,10,Adulte,48.84188003692027,2.391782300205177
+Alignement,13,Celtis,australis,,115,12,Adulte,48.81970065921697,2.345656975217891
+Alignement,16,Sophora,japonica,,94,10,Adulte,48.837499829581525,2.258211081111662
+Alignement,20,Ulmus,,''Nanguen'' LUTECE,40,6,Jeune (arbre)Adulte,48.87589159754656,2.406749220358933
+Alignement,18,Pyrus,calleryana,''Chanticleer'',50,8,Jeune (arbre)Adulte,48.893859848876595,2.35140801287853
+Alignement,16,Prunus,serrulata,''Kanzan'',47,5,Jeune (arbre)Adulte,48.86674303032404,2.28486076893705
+Alignement,20,Celtis,australis,,80,8,Adulte,48.872646941181536,2.407825916315099
+Alignement,13,Acer,platanoides,''Crimson King'',40,8,Jeune (arbre),48.819594387055815,2.348464950336586
+Alignement,12,Aesculus,hippocastanum,,105,12,Adulte,48.84412322060982,2.44512711581737
+Alignement,17,Quercus,cerris,,33,5,Jeune (arbre),48.900333330859574,2.32010309659228
+Alignement,16,Platanus,x hispanica,,160,22,Adulte,48.847908153322976,2.271745176940423
+Alignement,16,Ulmus,,''Nanguen'' LUTECE,20,5,,48.85293190521526,2.241483997278193
+Alignement,12,Fraxinus,angustifolia,''Raywood'',45,5,Jeune (arbre)Adulte,48.83358664241157,2.402232370281118
+Alignement,12,Platanus,x hispanica,,20,5,Jeune (arbre),48.82936376707281,2.421589330405762
+Alignement,12,Aesculus,hippocastanum,,105,12,Jeune (arbre),48.83679074578881,2.42439602896921
+Alignement,17,Platanus,x hispanica,,162,14,Adulte,48.89379441029484,2.31254653990803
+Alignement,17,Ulmus,n. sp.,,150,17,Adulte,48.87529710190153,2.29593819238031
+Alignement,13,Platanus,occidentalis,,165,16,Adulte,48.83007359918938,2.347713100869154
+Alignement,14,Melia,azedarach,,20,5,,48.82174920332601,2.32597334422664
+Alignement,13,Sophora,japonica,,75,12,Jeune (arbre)Adulte,48.827777305688,2.341742646534167
+Alignement,19,Fraxinus,excelsior,''Diversifolia'',90,10,Adulte,48.889873477787766,2.372038800905935
+Alignement,15,Gleditsia,triacanthos,,100,10,Adulte,48.82829761488899,2.3032967551389
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',160,12,Adulte,48.84365377593891,2.312178198075626
+Alignement,19,Sophora,japonica,,30,5,Jeune (arbre),48.88968179003828,2.37556986180341
+Alignement,20,Robinia,pseudoacacia,,80,8,Adulte,48.87512427259637,2.398864639901453
+Alignement,17,Sophora,japonica,,110,12,Adulte,48.88930349100236,2.318582353278927
+Alignement,13,Sophora,japonica,,90,10,Jeune (arbre)Adulte,48.82610897668605,2.354844045021488
+Alignement,19,Tilia,tomentosa,,80,10,Jeune (arbre)Adulte,48.88553189770337,2.37005562408578
+Alignement,16,Juglans,nigra,,60,8,Jeune (arbre)Adulte,48.86001492100051,2.27399165025377
+Alignement,13,Celtis,australis,,80,8,Adulte,48.81968613109799,2.34709111829967
+Alignement,13,Carpinus,betulus,''Fastigiata'',60,10,Jeune (arbre)Adulte,48.82494403935931,2.36001555925668
+Alignement,14,Platanus,x hispanica,,165,12,Adulte,48.81976334664639,2.329505125604753
+Alignement,16,Aesculus,hippocastanum,,85,10,Jeune (arbre)Adulte,48.863243711089055,2.28576913516497
+Alignement,20,Corylus,colurna,,85,8,Adulte,48.8701147350086,2.381363601639658
+Alignement,16,Aesculus,hippocastanum,,94,12,Adulte,48.85788923885825,2.26866906373823
+Alignement,14,Platanus,x hispanica,,95,10,Jeune (arbre)Adulte,48.82235825628407,2.32236275180298
+Alignement,20,Aesculus,hippocastanum,,35,5,Jeune (arbre),48.87119038332071,2.393003921207877
+Alignement,12,Acer,freemanii,''Jeffersred'' AUTUMN BLAZE,35,10,Jeune (arbre)Adulte,48.8424699859922,2.41304229500804
+Alignement,19,Platanus,x hispanica,,115,18,Adulte,48.886820592460666,2.38529729110314
+Alignement,20,Platanus,x hispanica,,65,15,Jeune (arbre)Adulte,48.873806936148235,2.38680899065812
+Alignement,16,Prunus,x schmittii,,20,5,,48.86897194328959,2.27557273561513
+Alignement,14,Aesculus,hippocastanum,''Baumannii'',15,3,Jeune (arbre),48.83469838453306,2.340818689347793
+Alignement,20,Sophora,japonica,,180,15,Adulte,48.8678526507411,2.38272300134168
+Alignement,13,Platanus,x hispanica,,65,10,Jeune (arbre),48.83446690072484,2.36641531261588
+Alignement,12,Castanea,n. sp.,,45,6,Jeune (arbre),48.83922628091642,2.45975164260785
+Alignement,13,Prunus,avium,,80,8,Jeune (arbre)Adulte,48.82951886981959,2.358645983681248
+Alignement,16,Platanus,x hispanica,,195,18,Adulte,48.844823362247496,2.26658561752176
+Alignement,19,Tilia,n. sp.,,100,5,Adulte,48.88662239189559,2.371779122064693
+Alignement,15,Aesculus,x carnea,''Briotii'',55,8,Jeune (arbre)Adulte,48.832423467374575,2.289315316547561
+Alignement,19,Platanus,x hispanica,,120,20,Adulte,48.90128961979379,2.386996804682642
+Alignement,15,Morus,alba,,110,10,Adulte,48.83882535317737,2.277174930623331
+Alignement,16,Platanus,x hispanica,,289,25,Adulte,48.84626682300252,2.273725565782393
+Alignement,16,Aesculus,hippocastanum,,20,5,,48.8572279230901,2.264333568602937
+Alignement,12,Platanus,x hispanica,,250,20,Adulte,48.82209542245105,2.446044153853582
+Alignement,12,Tilia,tomentosa,,70,10,Adulte,48.851106278890654,2.368801555949868
+Alignement,12,Aesculus,hippocastanum,,30,5,Jeune (arbre),48.83792353933563,2.413460723146054
+Alignement,16,Aesculus,hippocastanum,''Baumannii'',133,11,Adulte,48.84797382694858,2.24475646365775
+Alignement,19,Corylus,colurna,,45,5,Jeune (arbre),48.88216774420486,2.394499113348026
+Alignement,17,Platanus,x hispanica,,190,20,Adulte,48.89795299057994,2.32875935929952
+Alignement,15,Cercis,siliquastrum,,85,8,Adulte,48.850250124868055,2.288510227531413
+Alignement,19,Ulmus,,''Nanguen'' LUTECE,45,8,Jeune (arbre),48.89575029166553,2.373182380831455
+Alignement,12,Acer,n. sp.,,55,10,Jeune (arbre)Adulte,48.847167772212565,2.397025400105572
+Alignement,20,Platanus,x hispanica,,50,12,Jeune (arbre)Adulte,48.86460695666457,2.407553787949842
+Alignement,12,Aesculus,n. sp.,,180,10,Adulte,48.847671811799685,2.3959104052069
+Alignement,14,Aesculus,hippocastanum,''Baumannii'',135,10,Adulte,48.83452847819843,2.33352893487269
+Alignement,20,Tilia,tomentosa,,45,6,Jeune (arbre)Adulte,48.86321047278388,2.38847168568717
+Alignement,15,Liquidambar,styraciflua,,95,10,Adulte,48.84830105592256,2.302285564572005
+Alignement,16,Sophora,japonica,,127,14,Adulte,48.84617656029883,2.27260753977936
+Alignement,15,Sophora,japonica,,30,6,Jeune (arbre)Adulte,48.84640447895801,2.280437932806958
+Alignement,16,Acer,opalus,,19,5,Jeune (arbre),48.84508172471726,2.257561757518023
+Alignement,20,Acer,platanoides,''Columnare'',70,12,Adulte,48.863936240152235,2.39772894415956
+Alignement,16,Prunus,sargentii,,20,4,,48.84451551953054,2.252163234767474
+Alignement,14,Sophora,japonica,,125,10,Jeune (arbre)Adulte,48.830883150928955,2.317876524330851
+Alignement,16,Tilia,cordata,''Greenspire'',45,7,Jeune (arbre)Adulte,48.86187699017584,2.24695342709367
+Alignement,13,Sophora,japonica,,90,10,Adulte,48.82753642703701,2.37075633127472
+Alignement,14,Platanus,x hispanica,,205,20,Mature,48.83870585982843,2.3295635794338
+Alignement,13,Aesculus,x carnea,''Briotii'',75,6,Adulte,48.82042359419889,2.3558746729608
+Alignement,12,Platanus,x hispanica,,60,10,Jeune (arbre)Adulte,48.83112430692017,2.398959798390547
+Alignement,14,Platanus,x hispanica,,50,6,Jeune (arbre),48.824249256153955,2.318305038744951
+Alignement,16,Aesculus,hippocastanum,,109,13,Adulte,48.86352534885968,2.28326686124412
+Alignement,16,Acer,pseudoplatanus,''Bruchem'',25,6,Jeune (arbre),48.84591244818842,2.272342181836737
+Alignement,19,Parrotia,persica,''Vanessa'',20,5,,48.881275707886005,2.379486546340124
+Alignement,14,Platanus,x hispanica,,230,20,Mature,48.83838330525747,2.32946315970177
+Alignement,15,Platanus,occidentalis,,65,10,Adulte,48.845909491144404,2.311252915230139
+Alignement,13,Tilia,tomentosa,,40,5,Jeune (arbre),48.8287470423871,2.35334246684657
+Alignement,13,Toona,sinensis,,125,7,Jeune (arbre)Adulte,48.833782763185695,2.354072398947635
+Alignement,18,Sophora,japonica,,78,7,Jeune (arbre),48.89774416434988,2.35245716969142
+Alignement,19,Platanus,orientalis,,75,10,Jeune (arbre)Adulte,48.87593861915401,2.381643165667505
+Alignement,18,Crataegus,laevigata,,70,6,Adulte,48.895071005144956,2.340302502993928
+Alignement,15,Juglans,nigra,,40,8,Jeune (arbre)Adulte,48.84001735292681,2.285050946473332
+Alignement,13,Platanus,occidentalis,,285,30,Mature,48.82095618212926,2.354064425375902
+Alignement,14,Aesculus,hippocastanum,''Baumannii'',50,6,Jeune (arbre),48.834376449593044,2.33484102604931
+Alignement,12,Sophora,japonica,,75,10,Jeune (arbre)Adulte,48.84656911439379,2.400141513922781
+Alignement,15,Corylus,colurna,,35,6,Adulte,48.85154916695657,2.291577084454053
+Alignement,16,Tilia,,,50,5,Jeune (arbre),48.856620795173725,2.2720546073654
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',130,10,Adulte,48.83709467423507,2.273572421064111
+Alignement,13,Populus,n. sp.,,40,8,Jeune (arbre)Adulte,48.81941674972401,2.353151207508436
+Alignement,16,Aesculus,hippocastanum,,69,10,Jeune (arbre)Adulte,48.84651602369996,2.250992830719453
+Alignement,16,Tilia,tomentosa,,70,12,Adulte,48.875398740136305,2.283777510153105
+Alignement,15,Platanus,x hispanica,,90,12,Adulte,48.840919236158534,2.29988012407602
+Alignement,12,Tilia,tomentosa,,85,5,Jeune (arbre)Adulte,48.83313913894673,2.402711790496835
+Alignement,19,Platanus,x hispanica,,20,5,,48.89903981003631,2.37044091116306
+Alignement,15,Platanus,x hispanica,,65,10,Adulte,48.846536098717934,2.311858286824609
+Alignement,20,Malus,tschonoskii,,35,6,Jeune (arbre),48.85334931893023,2.40949572376845
+Alignement,13,Platanus,occidentalis,,105,13,Adulte,48.82940140718382,2.3489575497068
+Alignement,17,Acer,platanoides,,30,4,Jeune (arbre),48.89272228623313,2.310028552050143
+Alignement,20,Prunus,dulcis,,60,6,Jeune (arbre)Adulte,48.86711572698865,2.389174620166937
+Alignement,18,Platanus,x hispanica,,50,7,Jeune (arbre),48.89565592928325,2.35884209685302
+Alignement,20,Acer,platanoides,''Globosum'',35,3,Jeune (arbre),48.86821641226998,2.38201828999412
+Alignement,18,Aesculus,x carnea,,20,5,,48.885826836612935,2.33796748199883
+Alignement,16,Pyrus,calleryana,''Chanticleer'',61,8,Adulte,48.84075521309546,2.25867644775374
+Alignement,12,Acer,n. sp.,,45,10,Jeune (arbre)Adulte,48.847289255864496,2.397023381278716
+Alignement,16,Aesculus,x carnea,''Briotii'',35,4,Jeune (arbre),48.85114835929796,2.23448480219387
+Alignement,16,Platanus,x hispanica,,50,10,Jeune (arbre)Adulte,48.849917237077065,2.25973851894409
+Alignement,17,Platanus,x hispanica,,127,14,Adulte,48.88073250183896,2.31090654947634
+Alignement,15,Celtis,australis,,75,7,Adulte,48.82777955477175,2.2989858643405
+Alignement,12,Tilia,platyphyllos,,30,5,Jeune (arbre),48.8328889650009,2.446351589991641
+Alignement,19,Pyrus,calleryana,''Chanticleer'',25,5,Jeune (arbre),48.881762066682626,2.37187627495205
+Alignement,16,Aesculus,hippocastanum,,190,16,Adulte,48.86324803548368,2.28712191292641
+Alignement,17,Platanus,x hispanica,,80,11,Adulte,48.88766306996459,2.305137142244866
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',70,12,Adulte,48.84494528225361,2.292666918960602
+Alignement,15,Juglans,nigra,,45,8,Jeune (arbre)Adulte,48.8396709858954,2.28450473045301
+Alignement,12,Quercus,n. sp.,,45,8,Jeune (arbre),48.830470181655684,2.460305843948363
+Alignement,14,Tilia,tomentosa,,80,7,Jeune (arbre)Adulte,48.827074110832235,2.331098440641152
+Alignement,13,Lagerstroemia,indica,,40,5,Jeune (arbre)Adulte,48.8253518287079,2.35534946896808
+Alignement,14,Aesculus,hippocastanum,''Baumannii'',75,6,Jeune (arbre),48.83450010957831,2.33631534260428
+Alignement,19,Populus,nigra,''Italica'',25,5,Jeune (arbre),48.8840926324396,2.36988965137622
+Alignement,14,Gleditsia,triacanthos,''Skyline'',55,6,Jeune (arbre),48.82199970025685,2.325930470873582
+Alignement,12,Ulmus,glabra,''Pendula'',75,5,Jeune (arbre)Adulte,48.84585168501588,2.395543054263299
+Alignement,19,Aesculus,x carnea,,20,5,Jeune (arbre),48.89582798256704,2.378987310054036
+Alignement,18,Aesculus,x carnea,''Briotii'',128,9,Adulte,48.89922402902589,2.337683062407348
+Alignement,13,Populus,alba,''Raket'',100,15,Adulte,48.819393818829916,2.35309529756487
+Alignement,14,Platanus,x hispanica,,110,12,Jeune (arbre)Adulte,48.83276367509833,2.338495540448143
+Alignement,14,Acer,pseudoplatanus,,80,8,,48.83491282770786,2.314616256556685
+Alignement,12,Sophora,japonica,,140,10,Adulte,48.84689297475806,2.39966331774236
+Alignement,12,Platanus,x hispanica,,205,15,Adulte,48.832415098287356,2.396903751752419
+Alignement,14,Acer,platanoides,,120,9,Adulte,48.81940540093772,2.343322385619089
+Alignement,19,Sophora,japonica,,130,15,Adulte,48.894748493542494,2.394445451222851
+Alignement,17,Tilia,n. sp.,,100,9,Adulte,48.88278651495635,2.32347049308294
+Alignement,17,Aesculus,hippocastanum,''Baumannii'',65,7,Jeune (arbre)Adulte,48.882906654930096,2.30988431037657
+Alignement,12,Tilia,platyphyllos,,100,15,Jeune (arbre)Adulte,48.835157917187324,2.437782967378668
+Alignement,13,Tilia,tomentosa,,125,15,Mature,48.82966098201398,2.3572944190841
+Alignement,16,Acer,pseudoplatanus,,149,15,Adulte,48.846081217093136,2.27223466825379
+Alignement,15,Platanus,x hispanica,,105,12,Adulte,48.84885697246731,2.287628574042279
+Alignement,12,Platanus,x hispanica,,120,10,Jeune (arbre)Adulte,48.83418355312128,2.381957344172716
+Alignement,12,Platanus,x hispanica,,80,10,Jeune (arbre)Adulte,48.83095975008428,2.387076004659161
+Alignement,12,Acer,platanoides,,85,8,Jeune (arbre)Adulte,48.83910365496624,2.437787901988036
+Alignement,15,Aesculus,x carnea,,45,6,Jeune (arbre)Adulte,48.83643691692561,2.27626682730538
+Alignement,16,Sophora,japonica,,54,6,Jeune (arbre),48.86894709066093,2.2856167178815
+Alignement,16,Platanus,x hispanica,,340,26,Mature,48.86331423247522,2.296648423347446
+Alignement,16,Platanus,x hispanica,,20,5,,48.83632253443139,2.25812659430941
+Alignement,20,Platanus,x hispanica,,250,22,Mature,48.87438309611395,2.408290207687164
+Alignement,13,Platanus,occidentalis,,175,20,Adulte,48.82626417342466,2.383055131908331
+Alignement,12,Tilia,tomentosa,,50,6,Jeune (arbre),48.830130512368456,2.450423647085724
+Alignement,19,Toona,sinensis,,135,10,Adulte,48.88145487462644,2.37258304137756
+Alignement,17,Tilia,tomentosa,,90,10,Adulte,48.87891321480748,2.284630713409586
+Alignement,13,Platanus,occidentalis,,190,20,Adulte,48.82995145811414,2.34815404533389
+Alignement,19,Celtis,australis,,130,12,Adulte,48.87418778138299,2.376351129688356
+Alignement,16,Platanus,x hispanica,,87,14,Jeune (arbre)Adulte,48.85841878975778,2.288409008949902
+Alignement,12,Platanus,x hispanica,,75,7,Jeune (arbre)Adulte,48.83909797251827,2.437904957915275
+Alignement,15,Tilia,tomentosa,,150,12,Adulte,48.84464024766438,2.280265064647973
+Alignement,15,Cercis,siliquastrum,,50,6,Adulte,48.834569880926814,2.268698547102445
+Alignement,12,Platanus,x hispanica,,75,10,Jeune (arbre)Adulte,48.83739421984496,2.407922047810173
+Alignement,20,Tilia,platyphyllos,,120,16,Adulte,48.86359523804302,2.39004889372472
+Alignement,13,Sophora,japonica,,70,6,Jeune (arbre)Adulte,48.83078315719559,2.37688000253091
+Alignement,17,Gymnocladus,dioica,,25,5,Jeune (arbre),48.882361467605655,2.301417244081783
+Alignement,19,Platanus,x hispanica,,155,20,Adulte,48.88407371078845,2.399674372202333
+Alignement,16,Aesculus,hippocastanum,,68,10,Jeune (arbre)Adulte,48.85850585649947,2.2673589947028
+Alignement,12,Juglans,nigra,,115,10,Jeune (arbre)Adulte,48.828013322114515,2.43598103501098
+Alignement,20,Platanus,x hispanica,,70,10,Jeune (arbre)Adulte,48.86953905079696,2.394757153997855
+Alignement,13,Carpinus,betulus,''Fastigiata'',35,5,Jeune (arbre),48.82478636953348,2.359388981548418
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',140,10,Adulte,48.84796951039303,2.28012396581337
+Alignement,12,Platanus,x hispanica,,90,15,Adulte,48.83444716018027,2.387440501208387
+Alignement,17,Platanus,x hispanica,,115,14,Adulte,48.88044777186009,2.286895882965652
+Alignement,19,Prunus,avium,,30,4,Jeune (arbre),48.90064247837423,2.38036351114536
+Alignement,13,Carpinus,betulus,''Fastigiata'',100,12,Adulte,48.819658266161404,2.3501433881654
+Alignement,17,Corylus,colurna,,77,10,Adulte,48.887313998095486,2.287478746147678
+Alignement,16,Platanus,x hispanica,,55,8,Jeune (arbre),48.83747221185199,2.256267714019086
+Alignement,13,Aesculus,hippocastanum,''Baumannii'',80,12,Jeune (arbre)Adulte,48.83575879451545,2.34888074853463
+Alignement,13,Ginkgo,biloba,,45,6,Jeune (arbre)Adulte,48.83458635950258,2.372925214197979
+Alignement,12,Platanus,x hispanica,,35,5,Jeune (arbre)Adulte,48.841685786318365,2.386742788252054
+Alignement,13,Platanus,occidentalis,,120,16,Adulte,48.830849166209504,2.352837380095468
+Alignement,18,Aesculus,x carnea,''Briotii'',146,9,Adulte,48.89930229363366,2.33536597559988
+Alignement,18,Prunus,avium,,25,4,Jeune (arbre),48.89804494190113,2.34713841523453
+Alignement,16,Quercus,ilex,,80,8,Adulte,48.87187197929044,2.29089796540037
+Alignement,17,Platanus,x hispanica,,20,5,,48.889463036202855,2.322005234511254
+Alignement,16,Aesculus,hippocastanum,,102,8,Adulte,48.86353202640194,2.288816872286434
+Alignement,12,Fraxinus,,,75,9,Jeune (arbre)Adulte,48.830878359500396,2.43841401605853
+Alignement,20,Sophora,japonica,,90,10,Adulte,48.86979627386264,2.379831425495866
+Alignement,15,Acer,platanoides,,95,12,Adulte,48.84517863218548,2.301987511390184
+Alignement,12,Juglans,nigra,,130,15,Jeune (arbre)Adulte,48.82777831237954,2.439883718775
+Alignement,12,Platanus,x hispanica,,195,20,Adulte,48.842521136150964,2.38543142959287
+Alignement,15,Aesculus,hippocastanum,''Baumannii'',130,15,Adulte,48.841661096723556,2.318831823782101
+Alignement,14,Platanus,x hispanica,,130,10,Adulte,48.84117604878933,2.331703978499706
+Alignement,20,Sorbus,aucuparia,,25,5,Jeune (arbre),48.87142491855273,2.41142365475262
+Alignement,16,Platanus,x hispanica,,230,25,Mature,48.874773934894534,2.27807409192507
+Alignement,19,Platanus,orientalis,,55,10,Jeune (arbre)Adulte,48.87640542566649,2.3773038294698
+Alignement,15,Gleditsia,triacanthos f. Inermis,,70,10,Adulte,48.82849107345075,2.30242695005809
+Alignement,16,Tilia,x europaea,''Euchlora'',45,6,Jeune (arbre),48.85543430102736,2.26174433282176
+Alignement,15,Pyrus,calleryana,''Chanticleer'',55,8,Adulte,48.83671390377477,2.312330662293714
+Alignement,12,Tilia,platyphyllos,,120,9,Jeune (arbre)Adulte,48.834167733949734,2.442454706257703
+Alignement,14,Aesculus,hippocastanum,,95,8,Jeune (arbre)Adulte,48.83945738201564,2.336522536590371
+Alignement,16,Acer,pseudoplatanus,,100,14,Adulte,48.850208497092545,2.261707942733226
+Alignement,16,Platanus,x hispanica,,83,11,Jeune (arbre)Adulte,48.85877112598409,2.24409471005411
+Alignement,12,Tilia,cordata,,120,12,Adulte,48.824582684988016,2.45697628372273
+Alignement,16,Platanus,x hispanica,,24,6,Jeune (arbre),48.853348934195964,2.282093972901398
+Alignement,14,Sophora,japonica,,170,15,Adulte,48.8260505075832,2.30664581418871
+Alignement,12,Corylus,colurna,,45,7,Jeune (arbre),48.82172318008571,2.4538035931845
+Alignement,12,Sophora,japonica,,115,10,Adulte,48.834365743178175,2.400300747313805
+Alignement,19,Platanus,orientalis,,70,15,Jeune (arbre)Adulte,48.876304042509396,2.37630678285857
+Alignement,13,Sophora,japonica,,40,5,Jeune (arbre),48.827632347900526,2.370647466642
+Alignement,13,Corylus,colurna,,75,8,Adulte,48.83093886848833,2.36615127507184
+Alignement,17,Platanus,x hispanica,,40,7,Jeune (arbre),48.88686612342981,2.297898361083346
+Alignement,12,Aesculus,hippocastanum,,90,8,Jeune (arbre),48.83825876288956,2.426408806654013
+Alignement,20,Tilia,tomentosa,,85,8,Adulte,48.86928776131205,2.402182448507762
+Alignement,16,Tilia,cordata,,95,8,Adulte,48.851698289549745,2.259112868720999
+Alignement,12,Acer,platanoides,,30,4,Jeune (arbre),48.83543793445728,2.443187751087529
+Alignement,19,Platanus,orientalis,,40,6,Jeune (arbre),48.878300858633196,2.403955974216406
+Alignement,19,Platanus,x hispanica,,135,20,Adulte,48.883213329677176,2.38831258308824
+Alignement,17,Toona,sinensis,,43,6,Jeune (arbre),48.88641471416579,2.304369880677122
+Alignement,20,Platanus,x hispanica,,35,6,Jeune (arbre),48.864197134945194,2.409281925950247
+Alignement,14,Acer,platanoides,,85,8,Jeune (arbre)Adulte,48.84008908159617,2.330097259801997
+Alignement,19,Juglans,nigra,,20,3,Jeune (arbre),48.88798296415654,2.39576687245568
+Alignement,14,Ginkgo,biloba,,80,8,Jeune (arbre)Adulte,48.82425690624092,2.305695252989545
+Alignement,20,Platanus,x hispanica,,140,20,Adulte,48.87023841270834,2.409066208150753
+Alignement,17,Ulmus,n. sp.,,64,9,Adulte,48.881615070790936,2.317938788876733
+Alignement,18,Carpinus,betulus,''Frans Fontaine'',20,3,Jeune (arbre),48.89724295449211,2.35644922876144
+Alignement,16,Lagerstroemia,indica,,41,5,Jeune (arbre)Adulte,48.85996783873577,2.27937485985591
+Alignement,18,Aesculus,x carnea,''Briotii'',20,5,,48.89931002264587,2.335775174290629
+Alignement,12,Aesculus,x carnea,''Briotii'',55,5,Jeune (arbre)Adulte,48.849842869407865,2.384379953939562
+Alignement,14,Platanus,x hispanica,,50,6,Jeune (arbre),48.82265171912124,2.32748369690396
+Alignement,13,Quercus,robur,''Fastigiata'',90,15,Adulte,48.83366949719675,2.36445965316072
+Alignement,15,Platanus,x hispanica,,75,10,Adulte,48.83758274543112,2.27773071002511
+Alignement,15,Sophora,japonica,,90,10,Adulte,48.84014748683279,2.27797203107459
+Alignement,20,Tilia,cordata,,130,12,Adulte,48.87337005815625,2.409976661193341
+Alignement,20,Platanus,x hispanica,,85,15,Jeune (arbre)Adulte,48.864818613275276,2.409248856544819
+Alignement,15,Celtis,australis,,60,7,Adulte,48.84821844276949,2.302313720637678
+Alignement,15,Juglans,nigra,,50,10,Jeune (arbre)Adulte,48.83989425663625,2.28506459779718
+Alignement,13,Fraxinus,ornus,,45,6,Jeune (arbre)Adulte,48.828483232238135,2.382137521136105
+Alignement,12,Tilia,platyphyllos,,70,8,Jeune (arbre)Adulte,48.831786918287285,2.448053394703057
+Alignement,15,Sophora,japonica,,85,10,Adulte,48.827633343642496,2.300256076025363
+Alignement,12,Tilia,tomentosa,,75,5,Jeune (arbre)Adulte,48.843996596584354,2.372779709532706
+Alignement,19,Populus,nigra,,40,6,Jeune (arbre),48.90077925016624,2.381225389181338
+Alignement,15,Pyrus,calleryana,''Chanticleer'',70,8,Adulte,48.83303166219549,2.30105499376971
+Alignement,16,Aesculus,n. sp.,,24,5,Jeune (arbre),48.863052464204564,2.268993343507306
+Alignement,14,Platanus,x hispanica,,90,10,Jeune (arbre)Adulte,48.833104541707414,2.33551428876259
+Alignement,16,Aesculus,hippocastanum,,170,15,Adulte,48.87927969425866,2.267077459416
+Alignement,12,Platanus,x hispanica,,190,15,Adulte,48.83288985437169,2.39616193310113
+Alignement,16,Aesculus,hippocastanum,,114,13,Adulte,48.86309815838087,2.2914683335161
+Alignement,20,Platanus,x hispanica,,20,5,,48.857095323642106,2.410128249570366
+Alignement,12,Aesculus,hippocastanum,,155,15,Jeune (arbre),48.83915557020693,2.467179870825751
+Alignement,13,Tilia,x europaea,''Pallida'',25,5,Jeune (arbre),48.818820463978305,2.364701532856173
+Alignement,15,Gleditsia,triacanthos,''Skyline'',35,7,Jeune (arbre),48.84903597847174,2.282257340360491
+Alignement,12,Platanus,x hispanica,,115,10,Adulte,48.845132277764094,2.40108407828159
+Alignement,19,Acer,platanoides,,115,10,Adulte,48.897490208361326,2.388810427512751
+Alignement,20,Sophora,japonica,,80,10,Jeune (arbre)Adulte,48.849774778284456,2.4063549281543
+Alignement,12,Aesculus,n. sp.,,35,5,Jeune (arbre),48.83748005684278,2.413061305551657
+Alignement,19,Quercus,ilex,,70,10,Jeune (arbre)Adulte,48.87683558411154,2.385117211011038
+Alignement,14,Celtis,australis,,20,5,,48.83417607085608,2.31327566365577
+Alignement,13,Platanus,orientalis,,75,11,Jeune (arbre)Adulte,48.833987271764585,2.37767934734955
+Alignement,13,Celtis,australis,,115,12,Adulte,48.81721308930799,2.347572015282024
+Alignement,16,Prunus,x hillieri,''Spire'',68,6,Jeune (arbre),48.84074710792571,2.255357287276783
+Alignement,16,Tilia,x europaea,,70,10,Adulte,48.85732125329433,2.26274572039774
+Alignement,12,Celtis,australis,,105,10,Adulte,48.83808450480984,2.40959200998131
+Alignement,13,Celtis,australis,,20,5,,48.833546922346905,2.35679114950079
+Alignement,13,Platanus,occidentalis,,70,10,Jeune (arbre)Adulte,48.83058096666573,2.34641409814129
+Alignement,13,Tilia,tomentosa,,120,12,Adulte,48.820880811220185,2.36390199819911
+Alignement,16,Melia,azedarach,,40,5,Jeune (arbre),48.83920321995625,2.26175694463217
+Alignement,15,Platanus,x hispanica,,50,10,Jeune (arbre)Adulte,48.84815604784131,2.30547837718335
+Alignement,19,Tilia,x europaea,''Euchlora'',95,15,Adulte,48.88867781560644,2.37080464989734
+Alignement,19,Tilia,tomentosa,,75,10,Jeune (arbre)Adulte,48.877326210843854,2.39393430035413
+Alignement,20,Acer,monspessulanum,,30,6,Jeune (arbre),48.856849180691476,2.399071590126692
+Alignement,16,Sophora,japonica,,98,10,Adulte,48.83948750266556,2.26276891871265
+Alignement,16,Acer,platanoides,,47,8,Jeune (arbre),48.84732004216327,2.263504951017019
+Alignement,17,Platanus,x hispanica,,158,15,Adulte,48.88692557732758,2.30268430176982
